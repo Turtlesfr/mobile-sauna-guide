@@ -126,3 +126,22 @@
     compute();
   });
 })();
+
+/* ---------- mobile nav drawer ---------- */
+(function(){
+  document.addEventListener('DOMContentLoaded', function(){
+    var body=document.body,
+        toggle=document.getElementById('navToggle'),
+        backdrop=document.getElementById('navBackdrop'),
+        nav=document.getElementById('sidenav');
+    function setOpen(on){
+      body.classList.toggle('nav-open', on);
+      if(toggle){ toggle.setAttribute('aria-expanded', on?'true':'false'); toggle.innerHTML = on ? '✕ Close' : '☰ Menu'; }
+    }
+    if(toggle){ toggle.addEventListener('click', function(){ setOpen(!body.classList.contains('nav-open')); }); }
+    if(backdrop){ backdrop.addEventListener('click', function(){ setOpen(false); }); }
+    if(nav){ nav.addEventListener('click', function(e){ if(e.target.closest('a')) setOpen(false); }); }
+    document.addEventListener('keydown', function(e){ if(e.key==='Escape') setOpen(false); });
+    window.addEventListener('resize', function(){ if(window.innerWidth>880) setOpen(false); });
+  });
+})();

@@ -459,8 +459,13 @@ page = f'''<!DOCTYPE html>
 <style>{CSS}</style>
 </head>
 <body>
+<div class="mobilebar">
+  <span class="mb-brand"><span class="fire">🔥</span> Mobile sauna</span>
+  <button class="mb-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false">☰ Menu</button>
+</div>
+<div class="nav-backdrop" id="navBackdrop"></div>
 <div class="wrap">
-  <nav>
+  <nav id="sidenav">
     <div class="brand"><span class="fire">🔥</span> Mobile sauna</div>
     <div class="tag">DIY guide · Santiago, Chile</div>
     <ul>{nav}</ul>
