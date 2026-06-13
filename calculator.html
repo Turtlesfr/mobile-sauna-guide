@@ -1,0 +1,83 @@
+<section id="calculator" class="section">
+  <div class="sec-head"><span class="sec-num">∑</span>
+    <div><h2>🧮 Budget calculator</h2><p class="sec-es">Pick size, quality and materials — get a live CLP estimate</p></div></div>
+  <p class="overview">Set your cabin dimensions, choose a build quality and swap individual materials.
+    The estimate updates live, sizes the heater to the volume, and checks the built weight against
+    typical single-axle trailer ratings. Figures are indicative ranges (Chile, 2026), not a quote.</p>
+
+  <div class="calc">
+    <div class="presets" id="presets">
+      <button class="preset" data-preset="lean"><b>Lean</b><span>Cheapest viable · electric 4.5 kW · álamo benches over a pino frame</span></button>
+      <button class="preset active" data-preset="comfortable"><b>Comfortable</b><span>Wood stove + flue · mineral wool · glass door</span></button>
+      <button class="preset" data-preset="premium"><b>Premium</b><span>Premium stove · native woods · fibrocemento skin</span></button>
+    </div>
+
+    <div class="calc-grid">
+      <div class="field">
+        <label>Cabin dimensions (m)</label>
+        <div class="dimrow">
+          <div class="field"><label style="font-size:11px">Width</label><input id="w" type="number" step="0.1" min="1" max="3" value="1.7"></div>
+          <div class="field"><label style="font-size:11px">Length</label><input id="l" type="number" step="0.1" min="1.5" max="6" value="3.0"></div>
+          <div class="field"><label style="font-size:11px">Height</label><input id="h" type="number" step="0.1" min="1.8" max="2.4" value="2.0"></div>
+        </div>
+      </div>
+      <div class="field">
+        <label>Heater</label>
+        <select id="heater">
+          <option value="electric45">Electric 4.5 kW (Keya-type) + SEC install</option>
+          <option value="woodBuena" selected>Wood stove — BuenaCaldera + flue</option>
+          <option value="woodNordica">Wood stove — Nordicasa premium (flue + stones incl.)</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Insulation</label>
+        <select id="insul">
+          <option value="glasswool">Lana de vidrio (glass wool) — cheapest</option>
+          <option value="mineralwool" selected>Lana mineral (rock wool) — better, fire-resistant</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Interior wood (lining &amp; benches)</label>
+        <select id="wood">
+          <option value="alamo" selected>Álamo (poplar) — local, resin-free</option>
+          <option value="nativo">Native (coigüe / lenga) — premium</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Exterior skin</label>
+        <select id="ext">
+          <option value="impregnado" selected>Pino impregnado (treated) — cheapest</option>
+          <option value="fibrocemento">Fibrocemento — rot-proof, low-maintenance</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Door</label>
+        <select id="door">
+          <option value="solid" selected>Solid wood (DIY)</option>
+          <option value="glass">Tempered glass</option>
+        </select>
+      </div>
+    </div>
+    <label class="opt-include"><input type="checkbox" id="incTrailer" checked> Include the ~$500.000 trailer in the total</label>
+
+    <div class="badges" id="badges"></div>
+
+    <div class="weightbar">
+      <div class="track"><div class="fill" id="wfill" style="width:0%"></div></div>
+      <div class="marks"><span>0</span><span>750 kg axle</span><span>1500 kg axle</span></div>
+      <div id="wwarn" class="warn ok"></div>
+    </div>
+
+    <h3 class="sub">Itemised estimate</h3>
+    <div class="table-wrap"><table class="cost"><thead><tr><th>Item</th><th>CLP (low–high)</th></tr></thead>
+      <tbody id="calc-table"></tbody></table></div>
+
+    <div class="grandtotal">
+      <span class="gl">Estimated total</span>
+      <span class="gv" id="grand">—</span>
+    </div>
+    <p class="calc-note">Built weight is the empty, ready-to-tow estimate (structure + heater + stones + benches + door),
+      excluding people and water. Recommended heater power uses ≈1 kW per m³ of usable volume. Swap any material above
+      to see the effect. All rates derived from the sourced research on this page.</p>
+  </div>
+</section>

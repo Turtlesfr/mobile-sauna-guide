@@ -1,0 +1,1267 @@
+{
+  "summary": "Research a budget DIY trailer-mounted sauna for Chile, sourced, then return structured data for an HTML site",
+  "agentCount": 11,
+  "logs": [
+    "Collected 10/10 research sections"
+  ],
+  "result": {
+    "findings": [
+      {
+        "sectionKey": "trailer",
+        "sectionTitle": "Buying & prepping the second-hand trailer (Chile)",
+        "overview": "A used \"carro de arrastre\" (utility trailer) is a sound base for a small sauna, but the single most important concept is the WEIGHT BUDGET: a trailer is rated for a maximum gross weight, and your finished sauna plus everything in it must stay under that minus the trailer's own weight. A 1.7 x 3.0 m footprint is realistic and legal for a light trailer in Chile, but a fully built wood sauna of that size easily weighs 600-800 kg, so you must verify the axle/PBT rating before buying. Around 500.000 CLP on Yapo/MercadoLibre/Chileautos realistically buys an older single-axle or \"hechizo\" (home-made) trailer that will need inspection and likely new bearings, tires, lights, and possibly springs. Brand-new equivalents (Carromet, Metalbert, Metalcar) run 1.28-1.69M CLP +IVA, so the used route saves real money if the chassis is sound. Legally, any carro de arrastre needs its own patente, permiso de circulacion, revision tecnica and SOAP, and anything over 750 kg of load capacity must have independent brakes.",
+        "keyPoints": [
+          {
+            "heading": "The weight budget: axle rating minus trailer weight = your sauna budget",
+            "detail": "Treat the trailer's rated capacity as a hard ceiling. The standard DIY example: a 3500 lb (1588 kg) single axle IS the trailer's total load capacity; if the empty trailer weighs ~500 lb (227 kg), your usable payload (sauna structure + stove + benches + people + water) is only ~3000 lb (1360 kg). A modest 5x8 ft sauna can be built under 2000 lb gross, but a 6x12 ft build runs 2500-3000 lb. Add up framing, insulation, double T&G lining, siding, stove and rocks, benches, and 2-3 bathers, then confirm it sits under the axle rating with margin.",
+            "sourceUrl": "https://www.trailersplus.com/blog/how-much-can-a-single-axle-trailer-haul/",
+            "sourceTitle": "How Much Can a Single Axle Trailer Haul | TrailersPlus"
+          },
+          {
+            "heading": "A wood sauna on a 1.7x3 m trailer realistically weighs 600-800 kg",
+            "detail": "A builder on the permies tiny-house forum estimated his wooden sauna structure alone at about 700 kg and openly worried whether the frame and axle could hold it. The forum advice: find the trailer weight-capacity sticker on the tongue, and prefer well-built travel-trailer frames. For your 1.7x3 m footprint, budget the bare structure at roughly 600-800 kg before stove, rocks, benches and people, which means you want a single axle rated clearly above ~1000-1200 kg, not a flimsy 480-750 kg light utility axle.",
+            "sourceUrl": "https://permies.com/t/143289/Transforming-trailer-Finnish-sauna",
+            "sourceTitle": "Transforming old trailer into Finnish sauna (permies forum)"
+          },
+          {
+            "heading": "Design deliberately to stay under a target weight; lighter = towable and legal",
+            "detail": "Seekingsauna's mobile-sauna writeups stress designing to a fixed weight target (their build aimed under 2000 lb / ~907 kg) by choosing a small footprint, thin-but-effective insulation, lightweight lining, and a compact stove. The lighter you build, the easier it is to tow with a normal car and the more headroom you keep under the axle rating. For your occasional-move, grid-power scenario this favors a small electric heater (no firewood weight, no chimney) and a 1.7x3 m or even slightly smaller cabin.",
+            "sourceUrl": "https://seekingsauna.com/sauna-under-2000-pounds/",
+            "sourceTitle": "Designing a Mobile Sauna Under 2,000 Pounds - Seeking Sauna"
+          },
+          {
+            "heading": "Frame, weld and rust inspection before you hand over cash",
+            "detail": "Check the main rails and tongue for straightness with no twist or sag; scan for rust especially around welds, crossmembers and the coupler. Good welds look smooth, even and consistent. Reject anything with cracked welds, slag, gaps, heavy grinding-over (a sign of hidden repairs), or rust that has eaten into the steel section. On a cheap Chilean 'hechizo' (home-made) trailer this is the make-or-break check, because frame and weld defects are expensive to fix and unsafe under a top-heavy sauna.",
+            "sourceUrl": "https://maxbuilttrailers.com/resource-center/the-ultimate-checklist-for-inspecting-a-trailer-before-you-buy/",
+            "sourceTitle": "Trailer Inspection Checklist: 25 Things to Check Before You Buy - MaxBuilt"
+          },
+          {
+            "heading": "Bearings, leaf springs and tires: the cheap parts you will likely replace",
+            "detail": "Jack up each wheel and spin it by hand: grinding or play means bad wheel bearings (cheap, but service or replace them before any road trip). Inspect leaf springs/shackles/bushings for sag, cracks or rust; sagging springs change ride height and load behavior. Check tires for matching size, tread (min ~2/32 in) and, critically, the DOT date code: tires older than ~5 years should be replaced regardless of tread, because trailer tires age out and blow. Budget for new bearings, grease, and a pair of fresh tires on almost any 500.000 CLP used trailer.",
+            "sourceUrl": "https://www.ibextrailers.com/post/how-to-inspect-a-used-trailer-before-you-buy",
+            "sourceTitle": "How to Inspect a Used Trailer Before You Buy! - Ibex Trailers"
+          },
+          {
+            "heading": "What ~500.000 CLP buys vs. a new trailer baseline",
+            "detail": "On Yapo there are used carros de arrastre around 490.000 CLP (e.g. a unit listed in Paine) up into the millions for horse/heavy units. By comparison, NEW single-axle utility trailers from Chilean makers are a useful price/spec anchor: Carromet's 'Steel 15' is a 1 eje, 750 kg, 2000 x 1500 mm deck, aro 13, no brakes, at $1.280.000 CLP net; Metalbert's 'Romano' 1700 kg single axle with USA aro-13 radials is $1.690.000 +IVA. So 500.000 CLP used is roughly a third of new and worth it only if the chassis passes inspection and the axle rating is adequate.",
+            "sourceUrl": "http://carromet.cl/productos/producto/182/carro-de-arrastre-steel-15-para-750-kg",
+            "sourceTitle": "Carro de arrastre Steel 15 para 750 kg - Carromet"
+          },
+          {
+            "heading": "Chilean rules: patente, permiso de circulacion, revision tecnica, SOAP",
+            "detail": "Every carro de arrastre in Chile, including 'hechizo' ones, needs its own patente, must take out an annual permiso de circulacion at the municipality where it is registered (roughly 15.000-30.000 CLP for a light trailer), pass revision tecnica, and carry SOAP. SOAP for a carro de arrastre is about 3.900 CLP. Revision tecnica is done at a type-B plant on the same calendar as cars (by last plate digit); for capacity under 1750 kg it has three stages: documents, plate check, and braking system. Required docs include SOAP vigente, certificado de homologacion, and the padron. A class B license can tow a trailer up to 3.500 kg of authorized weight.",
+            "sourceUrl": "https://practicatest.cl/blog/tramites-y-renovaciones/revision-tecnica-carro-arrastre-chile",
+            "sourceTitle": "Como es la Revision Tecnica para carros de arrastre en Chile - PracticaTest"
+          },
+          {
+            "heading": "Registration and the 750 kg brake rule (REMUCAR / municipal)",
+            "detail": "Municipalities register carros de arrastre (e.g. Las Condes via REMUCAR). For a home-made trailer you typically present an invoice or a notarized declaration, your cedula, and the trailer's data: marca/modelo (or 'hechizo'), color, and capacidad de carga. The key threshold: a trailer with load capacity over 750 kg must have an independent braking system. Heavier remolques with PBV at or above 3.860 kg must additionally be inscribed in the Registro Civil's special remolques registry, which a small sauna trailer will be well under.",
+            "sourceUrl": "https://www.lascondes.cl/tramites/transito/permisos-de-circulacion/registro-municipal-de-carros-de-arrastre-remucar/",
+            "sourceTitle": "Registro Municipal de Carros de Arrastre - REMUCAR - Las Condes"
+          },
+          {
+            "heading": "Deck preparation: replace the floor with treated pine, keep it light",
+            "detail": "Most cheap used trailers come with a rusted steel floor or rotten wood deck. For the sauna sub-floor, treated/impregnated Pino Radiata is the standard Chilean exterior option, sold widely (Sodimac, Arauco DECK line, barracas like Madefan, Forestal Arbolito). Arauco DECK is autoclave-impregnated Pino Radiata (MCAz, retention 1 kg/m3 per NCh 819 risk classes R1-R3), good for the under-cabin platform. Build the deck as a flat, sealed, well-fastened base bolted to the frame; keep it minimal in thickness to protect your weight budget, and isolate the hot stove zone from combustible decking.",
+            "sourceUrl": "https://arauco.com/chile/marcas/deck/",
+            "sourceTitle": "ARAUCO Chile | Deck (Pino Radiata impregnado)"
+          }
+        ],
+        "chileNotes": [
+          "Used trailers: search 'carro de arrastre' on Yapo (yapo.cl/autos-accesorios-para-autos-partes-y-piezas-remolque-acoplado), MercadoLibre (vehiculos.mercadolibre.cl/otros/carros-arrastre/usados/), Chileautos (filter tipo 'Hechizo'), and Facebook Marketplace. ~490.000 CLP units exist around Santiago/Paine.",
+          "New-trailer price anchors so you know if a used deal is fair: Carromet Steel 15 (750 kg, 1 eje, aro 13) $1.280.000 CLP net; Metalbert Romano 1700 kg single axle $1.690.000 +IVA. Other makers: Metalcar, Carromet, Dunkay, Todotaller.",
+          "Legal load-capacity threshold in Chile: over 750 kg capacity REQUIRES independent brakes (freno). Many cheap light trailers are sold 'sin freno', which caps you at 750 kg capacity unless you add a brake system.",
+          "Costs to budget: SOAP carro de arrastre ~3.900 CLP/yr; permiso de circulacion ~15.000-30.000 CLP/yr; revision tecnica type-B plant (3 stages for <1750 kg), typically ~5.000-10.000 CLP.",
+          "Homologacion: revision tecnica asks for a Certificado de Homologacion. A purely 'hechizo' trailer can be trickier to get fully papered; prefer a used trailer that already has patente and papeles al dia, or budget time for the homologation/inscription path (REMUCAR / Registro Civil).",
+          "Deck/floor wood: treated Pino Radiata impregnado is the cheap, available exterior choice (Sodimac, Arauco DECK, barracas Madefan, Forestal Arbolito, Hensa, Lifewood). Impregnated pine is for the OUTDOOR sub-floor/platform only, never for interior benches or skin-contact surfaces because of the copper/azole preservatives.",
+          "A class B Chilean license can legally tow up to 3.500 kg authorized weight, far above a small sauna trailer, so towing licence is not the constraint; the trailer's own axle/PBT rating and the brake threshold are."
+        ],
+        "tips": [
+          "Before buying, write down your weight budget: target empty trailer weight + sauna structure (~600-800 kg for 1.7x3 m) + stove/rocks + benches + 2-3 people + water, then require the axle/PBT rating to exceed that total with a safety margin.",
+          "Find the capacity sticker/plate on the tongue or frame; if there is none (common on hechizo trailers), measure the axle diameter and ask the seller, and assume the worst until proven.",
+          "Take a magnet and a screwdriver to the viewing: the magnet finds bondo over rust, the screwdriver probes suspect frame rust and any wood deck for rot.",
+          "Jack each wheel and spin/rock it: bearing grumble or wheel wobble = plan to repack or replace bearings (cheap) before towing.",
+          "Plan to replace tires by DOT date code, not tread; trailer tires older than ~5 years should be changed regardless of looks.",
+          "Bolt (don't just weld blindly) the sauna base frame to the trailer with through-bolts and load spreaders so weight sits over the axle, slightly forward of center, to keep proper tongue weight.",
+          "Since 220V grid power is available and the trailer moves rarely, a compact electric heater removes firewood weight, the chimney, and a clearance/fire headache, which is friendlier to both the weight budget and revision tecnica.",
+          "Keep the build centered over the axle and low; a top-heavy tall sauna on a single axle tows badly and stresses the frame."
+        ],
+        "pitfalls": [
+          "Buying on price alone and ignoring the axle/PBT rating, then discovering the finished sauna exceeds the trailer's capacity (unsafe and illegal to tow).",
+          "Assuming a 750 kg light axle is enough: a wood sauna of this size can hit 600-800 kg bare, leaving no margin for stove, benches, water and people.",
+          "Overlooking the 750 kg brake rule: a 'sin freno' trailer legally caps load capacity at 750 kg in Chile.",
+          "Trusting a hechizo trailer with no patente/papeles: getting it homologated, inscribed (REMUCAR) and through revision tecnica afterwards can cost time and may fail.",
+          "Skipping the weld and frame-rust inspection; cracked or ground-over welds and rotted crossmembers are dangerous under a tall, heavy, top-heavy sauna.",
+          "Keeping old tires because they 'look fine' tread-wise; aged trailer tires blow out on the road.",
+          "Using impregnated pine for interior benches or lining; the preservative chemicals are not for hot, skin-contact, high-vapor sauna interiors. Use it only for the outdoor platform/sub-floor.",
+          "Building tall and off-center, raising the center of gravity and ruining tow stability and tongue weight on a single-axle trailer."
+        ]
+      },
+      {
+        "sectionKey": "structure",
+        "sectionTitle": "Structure, framing & anchoring to the chassis",
+        "overview": "For a small mobile sauna on a ~1.7 x 3.0 m second-hand trailer, the box is a lightweight stud-frame shell (think tiny-house construction, not a heavy backyard cabin) built as four wall panels plus a sloped roof, bolted down onto a flat subfloor that is itself anchored to the steel chassis. The single biggest constraint is WEIGHT: keep the loaded sauna inside the trailer's rating, mass low and centred slightly forward of the axle, and the heater (the heaviest single item) placed to give correct tongue weight. Use pino radiata for the framing (cheap and everywhere in Chile via Sodimac/Construmart/barracas), pino impregnado or fibrocemento siding for the weather skin, and reserve the few expensive non-resinous woods (álamo, ciprés) for the interior skin and benches only. Anchor with bolts/threaded rods that land on the trailer's cross-members, add diagonal bracing so the box does not rack while towing, and give the roof a real slope (minimum 1:40, ideally a clear shed pitch) with an overhang so rain runs off and away from the walls. In Chile a sub-1.750 kg trailer registers at the municipalidad, so staying light also keeps you legal and simple.",
+        "keyPoints": [
+          {
+            "heading": "Frame the walls as stud panels, but downsize for weight (2x2/2x3, not 2x4)",
+            "detail": "Standard sauna walls are a skeleton of vertical studs between a bottom plate and top plate, normally 2x4 at 16\" (≈400 mm) on centre. For a MOBILE build you deliberately downsize: a well-known mobile-sauna builder switched from 2x4 to 2x2 studs specifically to save weight and gain interior space ('every inch counts'). A sensible compromise for a 1.7x3.0 m box is 2x3 (38x63 mm) framing at ~400 mm on centre, which is light, strong enough for this small span, and a stocked size at Sodimac/barracas. Build each wall flat on the deck, check it is square by measuring both diagonals (the 'X' must be equal), then tilt it up.",
+            "sourceUrl": "https://www.saunatimes.com/types-of-saunas/mobile-saunas/a-mobile-sauna-build-project-that-the-most-amateur-builder-can-finnish-on-their-own/",
+            "sourceTitle": "A mobile sauna build project that the most amateur builder can finish on their own — Sauna Times"
+          },
+          {
+            "heading": "Add blocking where benches and the heater attach",
+            "detail": "Before you close up the walls, install horizontal blocking (short pieces of the same stud material) between the studs in two places: where the bench brackets will land and where/behind the heater will hang or sit. This gives you solid wood to screw into later instead of relying on thin cladding, and it matters more on a mobile unit where road vibration works fasteners loose. Mark these heights before cladding so you do not have to guess later.",
+            "sourceUrl": "https://www.familyhandyman.com/project/how-to-build-a-portable-sauna/",
+            "sourceTitle": "How to Build a Portable DIY Sauna — Family Handyman"
+          },
+          {
+            "heading": "Anchor the structure with bolts/threaded rod that land on the trailer cross-members",
+            "detail": "The structural rule from tiny-house practice: tie the bottom plates to the MAIN frame and cross-members of the trailer, not to thin secondary steel. Best practice is threaded rod (≈5/8\" / 16 mm) welded to the chassis, passing up through the floor framing and bottom plate, secured with nut + thick washer (a hold-down plate or fender washer) so it cannot pull through wood. If you cannot weld, drill through the subfloor into the steel and use lag/through bolts plus self-tapping screws where the subfloor meets the frame. Align every anchor with a cross-member so load goes through the frame's strongest runs.",
+            "sourceUrl": "https://thetinylife.com/anchoring-a-tiny-house-to-the-trailer/",
+            "sourceTitle": "Anchoring A Tiny House To The Trailer — The Tiny Life"
+          },
+          {
+            "heading": "Bolt spacing and corner placement",
+            "detail": "Place the first bolts about 30 cm (a foot) in from each corner, where the steel has a long continuous strong run, then space the rest roughly every 60 cm (two feet) along the bottom plate up to within 30 cm of the far corner. Use nyloc nuts (vibration-proof) or threadlock, washers, and run a bead of construction adhesive (e.g. a polyurethane like Sika) under the bottom plate before bolting so the plate is both glued and bolted. Tie the studs to the bottom plate with metal straps (hurricane/'fleje' ties) and do the same at the top plate-to-rafter joints so the whole box is mechanically linked from roof to chassis to resist road and wind forces.",
+            "sourceUrl": "https://tinyhousetalk.com/bolt-attach-tiny-house-trailer/",
+            "sourceTitle": "How to Bolt and Attach a Tiny House to a Trailer — Tiny House Talk"
+          },
+          {
+            "heading": "Keep weight low and centred slightly forward of the axle; mind tongue weight",
+            "detail": "Towing stability depends on the centre of gravity sitting slightly FORWARD of the axle (too far back and the trailer sways/fishtails at speed) and on tongue weight being about 10-15% of total trailer weight. Build heavy items low: floor, water, and especially the heater. On mobile saunas the stove placement is explicitly used to tune tongue weight and handling. Keep the tallest mass (chimney, upper benches) as light and central as possible. A purpose-built mobile sauna can reach ~1.350 kg (3000 lb), so on a small Chilean trailer you must budget weight aggressively to stay under rating.",
+            "sourceUrl": "https://aaatrailer.com/blogs/blogmatic/mastering-weight-distribution-trailer-stability",
+            "sourceTitle": "Mastering Weight Distribution for Trailer Stability — AAA Trailer"
+          },
+          {
+            "heading": "Give the roof a real slope and an overhang for rain runoff",
+            "detail": "Do not build a flat top. Minimum slope for water runoff is a 1:40 pitch; flat/very-low slopes pond water and leak. A simple shed (mono-pitch) roof is easiest on a rectangular box and sheds rain to one side, away from the door. Add a 30-40 cm overhang to throw water clear of the walls and protect the cladding. For a low-slope roof, an EPDM rubber membrane is the recommended waterproofing; a steeper shed roof can take galvanized/zinc-alum metal sheet (cheap and common in Chile) over a felt/membrane underlay with proper overlaps.",
+            "sourceUrl": "https://summerhouse24.ie/blog/how-to-build-an-outdoor-sauna/",
+            "sourceTitle": "Crafting the Ultimate DIY Outdoor Sauna for Your Garden — Summerhouse24"
+          },
+          {
+            "heading": "Exterior skin: pino impregnado tinglado or fibrocemento siding (both Chile-stocked)",
+            "detail": "For the weather skin, two budget, locally-available routes: (1) Tinglado (shiplap) de pino impregnado, e.g. 1x5x3.2 m, treated with micronized copper to resist rain and insects — a classic Chilean exterior board sold by barracas and Sodimac. (2) Siding de fibrocemento or PVC from Sodimac, which is lighter-maintenance and rot-proof, a good choice for a unit that sits outdoors and gets towed. Whichever you pick, seal/stain the impregnated pine (it is treated, not finished) and lap boards so water sheds downward; back the cladding with a breathable wrap so wind-driven rain cannot reach the studs.",
+            "sourceUrl": "https://dimasa.cl/producto/tinglado-pino-impregnado-1x5x32/",
+            "sourceTitle": "Tinglado Pino Impregnado 1X5X3,2 — Dimasa"
+          },
+          {
+            "heading": "Frame material: pino radiata dimensionado, seco for the structure",
+            "detail": "The cheap, universal Chilean framing wood is pino radiata 'dimensionado', sold green or kiln-dried (seco) at Sodimac, Construmart and any barraca in 2.4 m and 3.2 m lengths. For a permanent wall/tabique structure choose madera SECA (dry) for dimensional stability — green wood twists as it dries and will rack a small box. Common stocked sections are 1x2 up to 2x4; 2x2 and 2x3 are ideal for this lightweight build. Buy a few extra lengths for the bottom plates, top plates, blocking and roof rafters.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/lista/CATG10763/Madera-dimensionada",
+            "sourceTitle": "Madera Dimensionada - Pino — Sodimac Chile"
+          },
+          {
+            "heading": "Use OSB/structural panel for the subfloor and sheathing, screwed to the frame",
+            "detail": "A plywood/OSB subfloor ties the floor framing together and gives a flat deck to bolt the walls onto. OSB Estructural 11 mm (122x244 cm sheets) is the standard cheap structural panel at Sodimac. Fasten the subfloor down with self-tapping screws where it meets the steel chassis, and lay it over a vapour barrier. You can also use OSB or terciado as wall sheathing to brace the box against racking (it adds significant stiffness for towing) before applying the breathable wrap and final cladding.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110319000/OSB-Estructural-11-mm-122x244-cm/110319009",
+            "sourceTitle": "OSB Estructural 11 mm 122x244 cm — Sodimac Chile"
+          }
+        ],
+        "chileNotes": [
+          "Framing: pino radiata 'dimensionado' is the default cheap stud wood at Sodimac, Construmart and any barraca, in 2.4 m and 3.2 m lengths; choose madera SECA (kiln-dried) for a permanent tabique so it does not twist (https://www.sodimac.cl/sodimac-cl/lista/CATG10763/Madera-dimensionada).",
+          "Exterior skin options sold here: tinglado de pino impregnado 1x5x3.2 m (barracas / Dimasa, ~$4.061 CLP per board), or fibrocemento / PVC siding at Sodimac and specialists like ChileSiding (https://chilesiding.cl/).",
+          "Structural panels: OSB Estructural 11 mm 122x244 cm at Sodimac; MercadoLibre Chile lists OSB 11.1 mm from ~$5.500 CLP/plancha (https://listado.mercadolibre.cl/osb-estructural-11,1-mm-valor-$-5.500).",
+          "Interior skin / benches must be a NON-resinous wood — in Chile use álamo (poplar) or ciprés; avoid pino on bench tops and where skin touches because radiata pine bleeds hot resin and can scald (https://www.construex.cl/exhibidores/tinas_de_madera/producto/madera_sauna_chile).",
+          "Legal/weight: a carro de arrastre under 1.750 kg cargo capacity registers at the municipalidad (not Registro Civil); max height 4.30 m and combined length 11 m, and it needs SOAP insurance to circulate (https://www.hdi.cl/blog-auto-modo-seguro/3-requisitos-que-deben-cumplir-los-carros-de-arrastre-en-chile/).",
+          "A genuinely portable carro de arrastre is widely sold here as ~500-750 kg cargo capacity (Lara&Go, Chiletrailers, Campbox) — your second-hand ~500.000 CLP unit is likely in this class, so weight budgeting is the whole game.",
+          "Hardware: galvanized angle brackets, fleje/hurricane straps, tirafondos (lag bolts), self-tapping pernos and nyloc tuercas are all stocked at Sodimac/Easy/Construmart; use a polyurethane sealant (Sika) under the bottom plate."
+        ],
+        "tips": [
+          "Weigh-as-you-go: keep a running tally of every material's weight and compare against the trailer rating BEFORE buying, not after building. The heater + benches + water are your big-ticket masses.",
+          "Build all four walls flat on the deck and tilt them up; check square by equal diagonals before fixing — a square box is far easier to clad and seal.",
+          "Place the heater to set tongue weight (~10-15% of total) and keep the centre of gravity just forward of the axle to avoid fishtailing on the road.",
+          "Sheath the walls with OSB/terciado for racking stiffness — a towed box flexes far more than a static cabin, and diagonal bracing or sheathing stops the corners from loosening.",
+          "Bolt anchors only into the trailer's main rails and cross-members; mark their positions on the deck before you lay the subfloor so you can drill in the right spots.",
+          "Glue AND bolt the bottom plate (polyurethane bead + nyloc nuts) so road vibration cannot back fasteners out.",
+          "Give the roof a clear shed slope plus 30-40 cm overhang; run the low edge to the side away from the door so you do not walk into a curtain of runoff.",
+          "Reserve expensive non-resinous wood (álamo/ciprés) only for the interior skin and benches — clad the structure and exterior with cheap pino to protect the budget."
+        ],
+        "pitfalls": [
+          "Building the box too heavy and blowing past the trailer's rating — easy to do with a thick backyard-cabin frame; downsize studs and panels for a mobile unit.",
+          "Using green (wet) pino for the structure: it twists as it dries and racks a small towed box. Use madera seca for the frame.",
+          "Anchoring into thin or secondary steel instead of the chassis cross-members — the bond fails under road shock.",
+          "A flat or near-flat roof that ponds water and leaks; always exceed the 1:40 minimum slope and add an overhang.",
+          "Putting resinous radiata pine on bench tops or where bare skin touches — it bleeds hot resin and overheats; that wood belongs on the structure/exterior, not the sauna interior surfaces.",
+          "Forgetting bench/heater blocking before cladding, then having nothing solid to anchor the heaviest, most safety-critical items into.",
+          "Loading mass too far back, causing trailer sway; keep the centre of gravity slightly forward of the axle and tongue weight in the 10-15% band.",
+          "Ignoring Chilean registration/SOAP rules — staying under 1.750 kg keeps it a simple municipal inscription, but it still must be inscribed and insured to be on the road."
+        ]
+      },
+      {
+        "sectionKey": "insulation",
+        "sectionTitle": "Insulation & vapor barrier (the part most DIY saunas get wrong)",
+        "overview": "For a small sauna on a trailer in central-southern Chile, the single most important detail is getting the wall and ceiling \"sandwich\" in the right order: framing, then mineral or glass wool in the cavities, then a continuous aluminium-foil vapor barrier on the hot (interior) side, then thin furring strips for a 1.5-2 cm air gap, then the tongue-and-groove cladding. The foil does two jobs at once: it stops humid 90-100 C air from migrating into the wall (where it would condense, rot the frame and grow mold) and it reflects radiant heat back inside so the sauna heats faster and cheaper. Almost every failed DIY sauna gets one of three things wrong: uses cheap polyethylene/plumavit (plastic) instead of foil (it off-gasses and traps moisture at sauna temperatures), forgets the air gap behind the cladding, or leaves foil seams and penetrations unsealed. Aim for roughly R-19 to R-21 walls and R-26 to R-30 (or more) on the ceiling, since heat rises and the ceiling is your biggest loss point. On a trailer you also have to insulate the FLOOR from below and plan for water drainage, which a house-slab sauna does not.",
+        "keyPoints": [
+          {
+            "heading": "Correct wall/ceiling assembly order (outside to inside)",
+            "detail": "From exterior to interior: structural frame (studs) with insulation packed in the cavities, then a continuous aluminium-foil vapor barrier stapled to the warm/interior face of the studs, then furring strips (listones) creating a 1.5-2 cm air gap, then the tongue-and-groove interior cladding. The air gap is non-negotiable: it lets radiant heat reflect off the foil and gives any condensation a path to drain instead of sitting against the wood. On the ceiling use the same order but pack it deeper. Install the ceiling foil FIRST, then overlap the wall foil downward over it like roof shingles so moisture runs down and out.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/how-to-insulate-a-sauna-vapor-barrier-r-values-and-common-mistakes",
+            "sourceTitle": "How to Insulate a Sauna: Vapor Barrier, R-Values, and Common Mistakes - Haven of Heat"
+          },
+          {
+            "heading": "Why the aluminium-foil vapor barrier is critical (and why plastic fails)",
+            "detail": "Aluminium foil does double duty: it is a true vapor barrier that keeps moist sauna air out of the wall cavity, AND it reflects radiant heat back into the room so the sauna heats faster and holds temperature. Standard polyethylene plastic sheeting (and EPS/plumavit foam) is unacceptable in a sauna because it softens and can off-gas at sauna temperatures and gives zero radiant reflection. Put the foil on the HOT (interior) side of the insulation only; never sandwich insulation between two vapor barriers or you trap moisture and guarantee rot. Use unfaced (libre) batts when the foil already provides the barrier so you do not create a double barrier.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/sauna-insulation/",
+            "sourceTitle": "Sauna Insulation - SaunaTimes"
+          },
+          {
+            "heading": "How to seal foil seams and penetrations",
+            "detail": "Overlap adjoining foil runs by 5-8 cm (2-3 inches) and seal every seam with genuine aluminium foil tape, pressed down hard with a roller or your fingers. Do NOT use ordinary cloth duct tape or plastic tape, it delaminates and peels in the heat. Every single penetration through the foil (light fixture, heater cable, thermostat, vent, speaker hole) must be wrapped and taped around its full perimeter, because each unsealed hole is a moisture channel straight into the cavity. The goal is one continuous, taped, airtight foil envelope around the whole hot room.",
+            "sourceUrl": "https://finnishsaunabuilders.com/blogs/sauna-news/sauna-vapour-barrier-installation-guide-for-optimal-moisture-control",
+            "sourceTitle": "Sauna Vapour Barrier & Insulation Guide - Finnish Sauna Builders"
+          },
+          {
+            "heading": "R-value targets: ceiling must beat the walls by ~50%",
+            "detail": "Because heat rises, the ceiling is the biggest loss point and should be insulated at least 50% heavier than the walls. Practical targets for a cold-ish climate: walls R-15 to R-21 (use a full 5.5 in / ~140 mm of mineral or glass wool), ceiling R-26 to R-30 or more. Never compress the wool to fit, compression reduces R-value proportionally, and a squashed batt insulates far worse than its rating. For a small trailer sauna in central-southern Chile, framing the walls deep enough to hold 100-120 mm wool and the ceiling deep enough for ~150 mm is a sensible, buildable target.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/sauna-insulation-guide",
+            "sourceTitle": "The Ultimate Guide to Sauna Insulation - Haven of Heat"
+          },
+          {
+            "heading": "Which insulation materials are SAFE at sauna temperatures",
+            "detail": "Use mineral wool (lana mineral / Rockwool, the preferred choice, naturally fire-resistant and moisture-tolerant) or unfaced glass wool (lana de vidrio). Both tolerate sauna heat and off-gas minimally. AVOID expanded polystyrene (EPS / plumavit / aislapol) and XPS foam: EPS is only rated for continuous use to about 80 C and short-term to ~100 C, which is exactly sauna range, so it can soften and degrade. Avoid spray foam (inconsistent field curing, off-gassing) and any foil-faced bubble wrap sold as a one-step solution, it is not a substitute for proper wool plus foil.",
+            "sourceUrl": "https://aispor.es/blog/propiedades-del-poliestireno-expandido/",
+            "sourceTitle": "Poliestireno expandido EPS: propiedades y usos - Aispor (temperature limits)"
+          },
+          {
+            "heading": "Moisture, rot and mold prevention beyond the foil",
+            "detail": "The sealed foil envelope is your primary defense, but it only works if paired with the air gap behind the cladding (so condensation drains) and with ventilation: a low intake near the heater and a high exhaust on the opposite wall let the room dry out after use. Practice the 'bake and breathe' habit, run the heater a bit longer and crack the vents/door after a session to dry the wood and cavity. Trapped moisture from faced batts, missing air gap, or unsealed penetrations is what causes rot and black mold in failed DIY saunas.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/sauna-insulation/",
+            "sourceTitle": "Sauna Insulation (bake and breathe, ventilation) - SaunaTimes"
+          },
+          {
+            "heading": "Floor treatment and drainage (extra important on a trailer)",
+            "detail": "Slope the floor about 6 mm per 30 cm (1/4 in per foot, roughly 1:50 to 1:30) toward a stainless-steel drain so water runs off and the surface stays non-slip. Finish with a non-porous, heat-and-moisture-tolerant surface: sealed concrete board skim-coated waterproof, ceramic tile over a waterproofing membrane, or a sloped sealed surface topped with removable duckboard grates (rejillas) for foot comfort. Never use carpet or unsealed hardwood. On a trailer, also insulate the floor joists from below (mineral wool) with the vapor barrier on the warm/interior side, and protect the underside from road spray and rodents.",
+            "sourceUrl": "https://saunavssteamroom.com/floor-water-proofing-tips-for-diy-sauna-builders/",
+            "sourceTitle": "Floor Water-Proofing Tips for DIY Sauna Builders - SaunaVsSteamRoom"
+          }
+        ],
+        "chileNotes": [
+          "Glass wool (lana de vidrio) is the cheapest, most available option at Sodimac. Examples: TOPEX lana de vidrio 50 mm R139 0,6x10 m around $9.500 CLP; AISLANGLASS R94 40 mm 1,2x24 m around $41.790 CLP; AISLANGLASS 60 mm 1,2x12 m around $27.544 CLP. Buy 'libre' (unfaced) rolls so the foil is your only vapor barrier. Source: https://www.sodimac.cl/sodimac-cl/lista/CATG10947/Lana-de-Vidrio",
+          "Lana mineral (Rockwool-type) is the better, more fire-resistant choice and is sold at Sodimac under 'Lana Mineral' (e.g. AISLAN lana mineral 50 mm R122 around $38.700-$39.900 CLP). Costs a bit more than glass wool but tolerates heat better. Source: https://www.sodimac.cl/sodimac-cl/lista/CATG10948/Lana-Mineral",
+          "Aluminium foil tape (Foil Tape / cinta de aluminio) for sealing seams is at Sodimac: e.g. Foil Tape 50,8 mm x 45 m, and a cinta de aluminio adhesiva 50 mm x 50 m. Buy genuine aluminium tape, NOT cloth duct tape. Source: https://www.sodimac.cl/sodimac-cl/articulo/110326959/Cinta-de-Aluminio-Foil-Tape-50.8-mm-x-45-mts/110326965",
+          "For the foil vapor barrier itself, look for a foil/FSK barrier (lámina con cara de aluminio) rather than a hidrofuga/Tyvek-style breathable membrane. Sodimac stocks 'barrera de vapor con foil de aluminio'; specialist suppliers like Aislacel sell FSK aluminium radiant+vapor barrier rolls. A breathable hidrofuga membrane goes on the COLD exterior side only, never as the interior sauna barrier. Source: https://www.sodimac.cl/sodimac-cl/lista/CATG10954/Membrana-Hidrofuga-y-Tyvek",
+          "Wood for cladding/benches in Chile: alamo (poplar) is the local sweet spot, it does not bleed resin, does not splinter, stays cool to the touch and is widely used for tinas and saunas (Hidrotinas, Madefan and barracas sell alamo). Tilo (linden) is also good and gentle on sensitive skin. AVOID radiata pine for bench tops and skin-contact areas, it bleeds resin/alquitran when hot and is prone to mold; reserve cheap pino impregnado for the exterior structure only, never the hot-room interior skin. Sources: https://madefan.cl/ and https://www.hidrotinaschile.cl/",
+          "Plumavit / aislapol (EPS poliestireno) is everywhere and cheap in Chile, but do NOT use it inside the sauna envelope, its safe continuous temperature (~80 C) is below sauna operating temps. Source: https://aispor.es/blog/propiedades-del-poliestireno-expandido/"
+        ],
+        "tips": [
+          "Order the layers from inside out as a mantra: cladding, air gap (listones), foil, wool, frame. If you can recite it you will not mess up the build.",
+          "Buy 'libre' (unfaced) wool so you have exactly ONE vapor barrier (the foil) and never a double barrier that traps moisture.",
+          "Run the foil up the wall and onto the ceiling continuously, sealing the wall-to-ceiling and wall-to-floor corners with foil tape, these corners leak first.",
+          "Leave the foil slightly loose, not drum-tight, so it does not tear when the wood frame moves on the road; on a trailer the structure flexes more than a fixed building.",
+          "Use thin furring strips (listones ~20 mm) over the foil to create the air gap before nailing the alamo cladding.",
+          "Slope the floor to a stainless drain and lay removable duckboard (rejilla) on top so you can lift it to dry and clean, key on a trailer where water has nowhere to go.",
+          "Plan ventilation now: a low intake vent near the heater and a high exhaust on the far wall, both closable, so you can 'bake and breathe' the room dry after each use."
+        ],
+        "pitfalls": [
+          "Using polyethylene plastic sheeting or plumavit/EPS as the vapor barrier or insulation, it off-gasses, softens at sauna temperature and reflects no heat. Foil + mineral/glass wool only.",
+          "Forgetting the air gap and nailing cladding straight onto the foil, this kills radiant reflection and traps condensation against the wood.",
+          "Leaving foil seams or penetrations (light, heater cable, vent) untaped, every gap is a moisture highway into the cavity that rots the frame and grows mold.",
+          "Compressing the wool to make it fit a shallow frame, a squashed batt loses R-value; frame deep enough for the full thickness instead.",
+          "Under-insulating the ceiling, it is the biggest heat-loss surface and should be ~50% better insulated than the walls.",
+          "Using radiata pine or any resinous/splintery wood for bench tops and skin-contact surfaces, hot resin burns and the wood molds; use alamo or tilo for the interior skin.",
+          "Ignoring the floor on a trailer build, no insulation underneath and no drainage slope leads to a cold, wet, rotting floor that water cannot escape.",
+          "Putting a breathable hidrofuga/Tyvek membrane on the inside, that belongs on the cold exterior side; the interior sauna side needs the non-breathable foil."
+        ]
+      },
+      {
+        "sectionKey": "woodvselectric",
+        "sectionTitle": "Heater: wood stove vs electric (Chilean market, with a recommendation)",
+        "overview": "For a trailer sauna of roughly 1.7 x 3.0 m with a usable hot-room volume around 7-9 m3, the heater needs to deliver about 6-9 kW (rule of thumb: ~1 kW per m3, sized up for the cold-ish central-southern winters and any glass). That single number is what makes this decision easy in Chile: a 6 kW electric heater pulls about 28 A and a 9 kW one about 41 A, but a typical Chilean residential empalme monofásico tops out at 40 A / ~8.8 kW for the WHOLE house. So a real electric sauna heater either eats almost your entire single-phase supply or forces you into a 380V trifásico upgrade plus a licensed SEC electrician. A wood stove (estufa a leña para sauna) sidesteps all of that, is genuinely off-grid, costs less to run, and is sold ready-made in Chile by local makers. For an occasionally-moved, budget, family trailer sauna, the wood stove is the stronger fit, with electric only worth it if you already have spare panel capacity and never plan to move off-grid.",
+        "keyPoints": [
+          {
+            "heading": "Sizing: budget 6-9 kW for a ~7-9 m3 trailer hot room",
+            "detail": "The industry rule of thumb is roughly 1 kW of heater power per 1 m3 of sauna volume, then size UP for windows, exterior walls, poor insulation and cold climates. A 1.7 x 3.0 m trailer with a ~2 m ceiling is around 9-10 m3 gross; once you frame an insulated hot room inside it you land near 7-9 m3, so you want a 6-8 kW unit (round up to 9 kW if you keep a glass door or skimp on insulation). This same kW figure applies to both electric and wood stoves, which are rated by the cabin volume they can heat.",
+            "sourceUrl": "https://nordicasauna.com/blogs/news/what-size-sauna-heater-do-i-need",
+            "sourceTitle": "What Size Sauna Heater Do I Need? - Nordica Sauna"
+          },
+          {
+            "heading": "The electric dealbreaker: a Chilean empalme monofásico maxes at ~40 A / 8.8 kW for the whole house",
+            "detail": "A standard residential single-phase connection in Chile (empalme monofásico) goes up to 40 A at 220V, which is about 8.8 kW total for everything in the property. A 6 kW sauna heater alone draws ~28 A and a 9 kW one ~41 A on 220V single phase, so a real heater either consumes nearly your entire supply (lights, fridge, water heater fighting for the rest and tripping the main) or exceeds it outright. This is the single biggest reason a wood stove is easier in a Chilean home or off-grid trailer.",
+            "sourceUrl": "https://www.cge.cl/wp-content/uploads/2021/09/Empalme-monofasico-CGE-1.pdf",
+            "sourceTitle": "Empalme monofásico CGE (distribuidora eléctrica)"
+          },
+          {
+            "heading": "Electric heaters sold in Chile: 6 kW and 9 kW, 220V/380V, with real amperage figures",
+            "detail": "Chilean sauna specialists ProSauna (prosauna.cl) and Piscineria sell Keya-type heaters in 3, 4.5, 6, 9 and 12 kW. ProSauna's own listing states the 9 kW unit needs a dedicated 41 A connection and heats up to 9 m3, and notes it ships as 220V monofásico but can be reconfigured to 380V trifásico. Pricing is not shown online (quote by WhatsApp/phone), but the published specs confirm that anything 6 kW and up needs its own heavy dedicated circuit, and 9 kW realistically wants three-phase.",
+            "sourceUrl": "https://prosauna.cl/product/calefactor-sauna-9kw-220v-380/",
+            "sourceTitle": "Calefactor Sauna 9KW 220V/380 - ProSauna"
+          },
+          {
+            "heading": "If you go electric: dedicated breaker, RCD and AWG 6-8 cable, installed by a registered electrician (SEC)",
+            "detail": "A 6 kW heater at ~28 A needs its own circuit: a ~30-32 A automatic breaker plus a diferencial (RCD), wired in roughly AWG 8 (8.4 mm2) to AWG 6 (13.3 mm2) copper per Chilean SEC equivalence tables; a 9 kW unit at ~41 A pushes you to AWG 6 and ideally 380V trifásico. This is not DIY-legal in Chile: by law it must be declared and done by an SEC-authorized installer, and the panel/empalme may need upgrading. Budget for an electrician plus a possible aumento de potencia.",
+            "sourceUrl": "https://www.sec.cl/sitioweb/electricidad_norma4/apendice6.pdf",
+            "sourceTitle": "SEC - Apéndice 6: equivalencia de secciones AWG-mm2"
+          },
+          {
+            "heading": "Wood stoves are sold ready-made in Chile and are the cheaper, off-grid path",
+            "detail": "BuenaCaldera (buenacaldera.cl) sells purpose-built sauna wood stoves (Estufa Leña Sauna 15A-15D) from about $504.000 to $660.000 CLP, plus a chimney kit around $386.000 CLP and volcanic stones at ~$16.000 CLP per 25 kg bag. Nordicasa offers a Finnish-design stove made in Chile (60x60x100 cm, 8-18 m3, stones and cañones included) at $1.290.000 CLP. A wood stove needs no electrical supply at all, which suits an occasionally-moved trailer and patchy off-grid sites.",
+            "sourceUrl": "https://www.buenacaldera.cl/productos/estufas-a-lena/estufas-sauna",
+            "sourceTitle": "Estufas Sauna a leña - BuenaCaldera"
+          },
+          {
+            "heading": "Wood stove safety: clearances, non-combustible base and a proper flue (critical inside a wood trailer)",
+            "detail": "A wood sauna stove must sit on a non-combustible base (Nordicasa specifies a 1x1 m fireproof base), keep clearance to combustible walls (manufacturers commonly want generous separation, with heat shields if tight), and vent through a metal flue that clears the roofline and stays away from any combustible material. Inside an all-wood trailer this is the main hazard: use a double-wall insulated chimney through the roof with a proper roof-penetration kit and a spark arrestor, plus a fresh-air inlet for combustion.",
+            "sourceUrl": "https://www.nordicasa.cl/estufa-sauna",
+            "sourceTitle": "Estufa Sauna a Leña - Nordicasa"
+          },
+          {
+            "heading": "Trade-offs: heat-up time, maintenance and ambience",
+            "detail": "Electric heats fast and is set-and-forget (flick a switch, ready in ~20-40 min, easy timer control), with no ash, no flue and no fuel storage. Wood takes about 30-60 min to come up to temperature, needs you to chop/store dry firewood and clean ash, but gives the deep radiant heat, crackle and scent of a traditional Finnish sauna and reaches higher temperatures. For occasional family weekend use, the slower wood ritual is usually a feature, not a chore.",
+            "sourceUrl": "https://www.themuskokasaunaco.us/blogs/blog/sauna-wood-stoves-vs-electric-heaters",
+            "sourceTitle": "Sauna Wood Stoves vs Electric Heaters - Muskoka Sauna Co"
+          },
+          {
+            "heading": "Wood choice near skin matters more than heater type: use álamo for benches, never resinous pino",
+            "detail": "Whatever heater you pick, benches and any wood you touch should be a low-resin, low-conductivity species. Álamo (poplar) is the realistic Chilean choice: it does not secrete resin, does not splinter and does not overheat, ideal for asientos. Avoid raw pino radiata and spruce on benches and backrests: heated resin melts, sticks to skin, can burn and stains the wood. Radiata pino is fine for the outer structure but keep it off skin-contact surfaces unless thermally modified.",
+            "sourceUrl": "https://www.fluidra.com/es/soluciones-comerciales/inspiracion/blog/madera-adecuada-para-una-sauna/",
+            "sourceTitle": "Cómo elegir la madera adecuada para una sauna - Fluidra"
+          }
+        ],
+        "chileNotes": [
+          "Empalme monofásico estándar en Chile llega hasta 40 A / ~8.8 kW para toda la casa (fuente CGE). Un calefactor de 6 kW solo ya consume ~28 A: deja casi sin margen al resto de la casa.",
+          "Para 9 kW o uso intenso conviene 380V trifásico, lo que implica aumento de potencia ante la distribuidora (CGE, Enel, Chilquinta, CGE según zona) y un instalador autorizado SEC. No es legal hacerlo uno mismo en Chile.",
+          "Calefactores eléctricos de sauna en Chile: ProSauna (prosauna.cl) y Piscineria venden modelos Keya de 3/4.5/6/9/12 kW; precios por cotización (WhatsApp/teléfono), no publicados online.",
+          "Harvia tiene representación en Chile (harvia.cl, Estación Central, Santiago) para quienes prefieran marca premium, pero a mayor costo que los genéricos Keya.",
+          "Estufas a leña para sauna hechas en Chile: BuenaCaldera (Estufa Leña Sauna 15A-15D) $504.000-$660.000 CLP; Nordicasa (diseño finlandés, 8-18 m3) $1.290.000 CLP. Kit de chimenea BuenaCaldera ~$386.000 CLP.",
+          "Piedras volcánicas para sauna se venden por saco de 25 kg (~$16.000 CLP en BuenaCaldera); también en tinascalientes.cl. Necesitas 20-30 kg según el calefactor.",
+          "Madera de banca: álamo es la opción local de bajo costo y sin resina. Pino radiata abunda y es barato (Sodimac/Easy/Construmart/barracas) pero solo para estructura, no para superficies en contacto con la piel.",
+          "Estufas a leña genéricas (salamandras) también aparecen en MercadoLibre Chile desde ~$57.000 CLP, pero las de sauna con depósito de piedras y/o agua son las correctas; una salamandra común no está diseñada para sostener piedras ni alcanzar el perfil térmico de sauna."
+        ],
+        "tips": [
+          "Recommendation for THIS user: go WOOD. With occasional moves, possible off-grid sites and a tight budget, a Chilean-made sauna wood stove (BuenaCaldera ~$504.000-$660.000 CLP + chimney) avoids the empalme/trifásico headache entirely and gives a better sauna experience for the money.",
+          "Buy a stove rated for MORE than your m3, not less. A unit rated 8-18 m3 (like Nordicasa's) on a 7-9 m3 cabin heats fast and you simply burn less wood; an undersized one struggles in winter.",
+          "Spend on the chimney, not just the stove. A double-wall insulated flue with a proper roof-penetration kit and spark arrestor is the real safety item in an all-wood trailer.",
+          "Mount the stove over a non-combustible base (Nordicasa asks for 1x1 m) and add a rear heat shield with an air gap so you can keep the stove a safe distance from the wood wall without wasting cabin space.",
+          "Use álamo for benches, backrests and headrests; keep cheap pino radiata for the hidden frame only. Never seal interior wood with varnish or barniz (it off-gasses and blisters in heat).",
+          "Only choose electric if you already have spare panel capacity AND will always run on grid: then a 6 kW unit on a dedicated 30 A breaker + RCD + AWG 8 cable, installed by an SEC electrician, is the simplest set-and-forget option.",
+          "Keep a fresh-air inlet low near the stove for combustion air, plus an adjustable high vent for the sauna itself; a sealed trailer will smother the fire and the bathers."
+        ],
+        "pitfalls": [
+          "Assuming a 220V plug is enough for an electric sauna heater. A 6 kW heater needs ~28 A on its own dedicated circuit, not a normal wall outlet, and a 9 kW one (~41 A) exceeds a standard 40 A single-phase empalme entirely.",
+          "Budgeting only for the heater. Electric hides the cost of an SEC electrician, dedicated breaker/RCD, heavy AWG 6-8 cable and possibly an aumento de potencia or 380V upgrade; these can rival or exceed the heater price.",
+          "Adapting a generic salamandra/estufa a leña común as a sauna stove. Ordinary wood stoves are not built to hold a stone box, reach sauna temperatures, or let you throw water (löyly); buy a purpose-made estufa de sauna.",
+          "Under-spec'ing or DIY-ing the chimney in a wood trailer. Single-wall pipe too close to wood framing is the classic cause of sauna/cabin fires; use insulated double-wall flue and correct clearances.",
+          "Putting pino radiata or spruce where skin touches. Heated resin melts onto skin, can burn and permanently stains the bench. Use álamo (poplar) for all contact surfaces.",
+          "Sealing or varnishing interior sauna wood. Coatings off-gas and blister at sauna temperatures; interior wood must stay bare.",
+          "Ignoring trailer movement: a heavy stove and stone load (20-30 kg of stones plus the stove) must be bolted down and weight-distributed, or it shifts/damages the structure when you occasionally tow it."
+        ],
+        "costNotes": [
+          {
+            "item": "Estufa a leña para sauna (Chilean-made, BuenaCaldera 15A-15D)",
+            "estimateCLP": "$504.000 - $660.000 CLP",
+            "note": "Purpose-built sauna wood stove; volume rating not published per model, confirm by WhatsApp.",
+            "sourceUrl": "https://www.buenacaldera.cl/productos/estufas-a-lena/estufas-sauna"
+          },
+          {
+            "item": "Estufa sauna a leña premium (Nordicasa, 8-18 m3, stones + flue included)",
+            "estimateCLP": "$1.290.000 CLP",
+            "note": "Finnish design made in Chile, 60x60x100 cm, made-to-order ~4 weeks, needs 1x1 m fireproof base.",
+            "sourceUrl": "https://www.nordicasa.cl/estufa-sauna"
+          },
+          {
+            "item": "Kit de chimenea para estufa de sauna (BuenaCaldera)",
+            "estimateCLP": "$386.000 - $435.000 CLP",
+            "note": "Essential safety item; use double-wall insulated flue through the trailer roof.",
+            "sourceUrl": "https://www.buenacaldera.cl/productos/estufas-a-lena/estufas-sauna"
+          },
+          {
+            "item": "Piedras volcánicas para sauna (saco 25 kg)",
+            "estimateCLP": "$16.000 CLP",
+            "note": "Need roughly 20-30 kg depending on the stove's stone box.",
+            "sourceUrl": "https://www.buenacaldera.cl/productos/estufas-a-lena/estufas-sauna"
+          },
+          {
+            "item": "Calefactor eléctrico sauna 6 kW (Keya, 220V/380V) ProSauna/Piscineria",
+            "estimateCLP": "Cotización (no publicado)",
+            "note": "~28 A; needs dedicated 30 A breaker + RCD + AWG 8 cable + SEC electrician. Price by WhatsApp/phone.",
+            "sourceUrl": "https://www.piscineria.com/producto/calefactor-sauna-6kw-c60-220-380v/"
+          },
+          {
+            "item": "Calefactor eléctrico sauna 9 kW (Keya, up to 9 m3)",
+            "estimateCLP": "Cotización (no publicado)",
+            "note": "~41 A; exceeds standard 40 A single-phase empalme, realistically wants 380V trifásico.",
+            "sourceUrl": "https://prosauna.cl/product/calefactor-sauna-9kw-220v-380/"
+          }
+        ]
+      },
+      {
+        "sectionKey": "stovesafety",
+        "sectionTitle": "Stove & fire safety: clearances, heat shields, flue, CO",
+        "overview": "For a trailer sauna in central-southern Chile, the heater is the single most dangerous element: a wood stove in a tiny, tight, mobile box runs hot, vibrates on the road, and produces carbon monoxide (CO). The non-negotiables are: respect the manufacturer's clearance-to-combustibles around the stove and single-wall stovepipe, build a non-combustible floor and wall heat shield with a ventilated air gap, use a double-wall (insulated) flue where it passes through the roof with proper flashing and a spark arrestor, feed the fire a dedicated fresh-air intake plus an exhaust vent, and install a battery CO detector. Failing to respect clearances is the leading cause of sauna fires, and CO poisoning is the leading cause of sauna deaths. Electric is genuinely safer on the fire/CO front (no flame, no flue, no CO), so given you usually have 220V it is worth weighing seriously; but if you go wood, the rules below are mandatory, not optional. Everything here is buildable with materials sold at Sodimac, Easy, Construmart and MercadoLibre Chile.",
+        "keyPoints": [
+          {
+            "heading": "Clearance to combustibles: the core distances",
+            "detail": "General minimum rear/side clearance from a wood sauna stove body to a bare combustible wall is roughly 400-600 mm; some models with a built-in rear shield drop to ~200 mm. Single-wall stovepipe (the connector inside the room) needs about 18 inches (~460 mm) to any combustible. ALWAYS follow the exact figure on the manufacturer's plate, as it overrides any general rule. In a 1.7 m wide trailer you almost certainly cannot meet 460 mm to the wall on a bare wall, which is exactly why a ventilated heat shield (below) is required, not optional.",
+            "sourceUrl": "https://peakprimalwellness.com/blogs/wellness/sauna-wood-stove",
+            "sourceTitle": "Sauna Wood Stove Guide: How to Size and Install One"
+          },
+          {
+            "heading": "Ventilated heat shield: how much it buys you and the air-gap rule",
+            "detail": "A wall-mounted air-cooled heat shield with a 1-inch (25 mm) ventilated air gap behind it, open at top and bottom for convection, reduces single-wall stovepipe/connector clearance by up to 66% (18 in becomes 6 in). A shield attached directly to the stove cuts clearance in half. Use 24-gauge-or-thicker sheet metal OR cement board 1/2 inch+ (fibrocemento/Volcanboard works), held off the wall on 1-inch ceramic or metal spacers with heat-proof screws. Never bolt the shield flat to the wall: the air gap IS the protection. The shield should extend ~450 mm beyond each edge and ~500 mm above the top of the stove.",
+            "sourceUrl": "https://www.tinywoodstove.com/knowledgebase/wood-stoves/clearances-protecting-surrounding-materials/heat-shields-to-reduce-clearance-requirements/",
+            "sourceTitle": "Heat Shields to Reduce Clearance Requirements - Tiny Wood Stove"
+          },
+          {
+            "heading": "Non-combustible floor protection (hearth)",
+            "detail": "Build a non-combustible hearth under and around the stove extending at least 300 mm on all sides of the base and ~450-500 mm in front of the loading door to catch embers. On a trailer, a sensible stack is steel sheet over fibrocemento/cement board over the wood deck, optionally topped with stone or ceramic. This both stops radiant heat from charring the deck and contains falling coals when you load wood. Keep it rigid and screwed down so road vibration cannot shift it.",
+            "sourceUrl": "https://peakprimalwellness.com/blogs/wellness/sauna-wood-stove",
+            "sourceTitle": "Sauna Wood Stove Guide: How to Size and Install One"
+          },
+          {
+            "heading": "Double-wall insulated flue through the roof, with flashing and storm collar",
+            "detail": "The connector pipe inside the room can be single-wall, but where the flue passes through the roof (and the ceiling) it MUST be double-wall insulated (Class A type) chimney pipe, which keeps the outer surface cool enough to protect the roof. A complete kit includes single-wall connector, an insulated ceiling support/penetration plate, the double-wall section, roof flashing sized to the pipe and roof pitch, a storm collar, and a rain cap. The roof penetration must be fully watertight; get the flashing-to-pitch match right or it will leak. This is the part most worth doing carefully or having checked.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/sauna-stoves/lets-make-purchasing-wood-stove-chimney-components-easy/",
+            "sourceTitle": "Let's make purchasing wood stove chimney components easy | SaunaTimes"
+          },
+          {
+            "heading": "Chimney height, draft and spark arrestor for a mobile sauna",
+            "detail": "For a trailer sauna the chimney should terminate at least 12-24 inches (300-600 mm) above the highest point of the roof to get reliable draft; a detachable/extendable top section helps both draft and road clearance. Cap with a rain cap that includes a spark arrestor screen (about 3/4-inch / ~19 mm mesh) to stop hot embers landing on a dry Chilean-summer roof or grass. Note the tradeoff: a tight mesh cap can worsen back-puffing in some installs, so start a small hot fire to warm the flue fast and add a damper to fine-tune draft.",
+            "sourceUrl": "https://www.lamppakuuma.com/2024/12/information-on-mobile-sauna-ventilation-and-drafting/",
+            "sourceTitle": "Information on Mobile Sauna Ventilation and Drafting - KUUMA"
+          },
+          {
+            "heading": "Dedicated combustion-air intake plus exhaust vent",
+            "detail": "A wood sauna needs three openings: (1) a low intake vent feeding fresh air to the stove, ideally a 4-6 inch (100-150 mm) duct 150-300 mm from the stove at floor level, separate from the bathers' air; (2) air at the base of the wall behind/under the stove; and (3) a high exhaust vent on the opposite wall, 150-300 mm below the ceiling, sized to match or exceed the intake. In a tiny tight trailer this is critical: without makeup air the stove starves, combustion goes incomplete, and CO builds up. Make the vents closeable to tune temperature once it is running.",
+            "sourceUrl": "https://www.lamppakuuma.com/2024/12/information-on-mobile-sauna-ventilation-and-drafting/",
+            "sourceTitle": "Information on Mobile Sauna Ventilation and Drafting - KUUMA"
+          },
+          {
+            "heading": "Carbon monoxide: the real killer, and why NOT to add a fan",
+            "detail": "CO is colorless and odorless; incomplete combustion in a small tight space produces it and it can accumulate fast, which is why mobile saunas are higher risk. Install a battery-powered CO detector mounted on the wall, NOT on the hot ceiling, and test it before every burn. Critically: do NOT install an exhaust fan in a wood-burning sauna unless you know exactly what you are doing, because a fan creating negative pressure competes with the chimney draft and can pull combustion gases (CO) back into the room instead of up the flue.",
+            "sourceUrl": "https://www.lamppakuuma.com/2024/12/ventilation-and-drafting-a-sauna-stove/",
+            "sourceTitle": "Ventilation and Drafting a Sauna Stove - KUUMA"
+          },
+          {
+            "heading": "Keep firewood and combustibles away from radiant heat",
+            "detail": "Radiant heat off a sauna stove can char or ignite anything stored too close, including the wood you are about to burn, towels, and the bench skirt. Never stack firewood against or directly beside the stove; keep it outside the stove's clearance zone (treat it like a combustible wall, ~450 mm minimum) or store it outside the cabin entirely. The same applies to the wooden bench edge nearest the stove: protect it with the same shield/clearance logic, since benches and trim sit right in the radiant field.",
+            "sourceUrl": "https://www.rockfordchimneysupply.com/blogs/fireplaces-wood-stoves-and-inserts/clearance-to-combustible-materials",
+            "sourceTitle": "Clearances to Combustible Materials for Fireplaces & Stove Pipe"
+          }
+        ],
+        "chileNotes": [
+          "Wood sauna stoves are sold locally: BuenaCaldera (buenacaldera.cl) lists Estufa Leña Sauna models 15A/15B/15C/15D from $504.000-$660.000 CLP, plus a sauna chimney kit at ~$386.000 CLP and a 'chimney full set' ~$435.000 CLP; sauna stones (piedra) ~$16.000 CLP per 25 kg sack. Nordicasa (nordicasa.cl) sells a Finnish-design wood sauna stove made in Chile for 8-18 m3 rooms.",
+          "Buying the matched factory chimney kit (single-wall connector + insulated ceiling/roof penetration + flashing + storm collar + spark-arrestor cap) is the safest path and avoids improvising the roof penetration, which is the highest-leak, highest-fire-risk joint.",
+          "For the heat shield and hearth, Sodimac/Easy stock Volcanboard fibrocemento: 4 mm ~$7.590, 5 mm ~$10.990, 6 mm ~$12.990, 8 mm ~$19.990 (120x240 cm sheets). Volcanboard is rated non-combustible (Clase A1) and is the cheap, available board for shields, ceiling penetration backing and hearth build-up.",
+          "Galvanized or stainless steel sheet (plancha de acero/zincalum) for the shield face and hearth top is available at Sodimac, Easy, Construmart and barracas; pair it with the fibrocemento on ceramic spacers.",
+          "CO detectors are sold at Sodimac (AIZO autonomous CO alarm; VIPA WiFi CO sensor; 2-in-1 smoke+CO units) and on MercadoLibre Chile; budget roughly $10.000-$30.000 CLP for a basic battery autonomous unit. Buy a battery model so it works with the engine off and away from grid.",
+          "Chile has no single national 'sauna code', but mobile/road use means the trailer build should still respect SEC electrical norms if you also wire 220V, and the chimney height/spark arrestor matter especially given high summer wildfire risk in central-southern Chile (CONAF burn restrictions)."
+        ],
+        "tips": [
+          "Read the stove's data plate and copy its EXACT clearance numbers before you frame anything; the general 400-600 mm / 18 in figures are only a fallback.",
+          "Build the wall shield as: fibrocemento (Volcanboard 6 mm) + steel sheet face, held off the wall on 25 mm ceramic spacers, open top and bottom so air convects behind it. The gap is the protection, not the board.",
+          "Use single-wall connector pipe inside the room (it sheds heat into the sauna, which you want) and switch to double-wall insulated pipe for the ceiling and roof pass-through only.",
+          "Terminate the flue 300-600 mm above the highest roof point and fit a rain cap with ~19 mm spark-arrestor mesh; carry a spare extendable top section for road transit.",
+          "Cut three vents: low intake near/under the stove (100-150 mm), a base-of-wall vent behind the stove, and a high exhaust on the far wall; make them closeable.",
+          "Mount a battery CO detector at wall height (not the scorching ceiling) and physically test it before each session.",
+          "Keep a fire extinguisher rated for ordinary combustibles (ABC dry-chemical, sold at Sodimac/Construmart, ~$15.000-$30.000 CLP for a small unit) and a metal ash bucket with a lid right by the door; never empty hot ashes onto dry ground.",
+          "Store firewood outside the cabin or well outside the stove's radiant clearance zone; treat the woodpile like a combustible wall.",
+          "Since you usually have 220V, seriously price an electric heater alternative: it removes the flue, roof penetration, spark and CO risks entirely, which is a large safety win for a tiny mobile box."
+        ],
+        "pitfalls": [
+          "Bolting a heat shield flat against the wall with no air gap: this traps heat and can be worse than no shield. It needs the ~25 mm ventilated gap.",
+          "Running single-wall pipe through the roof/ceiling instead of double-wall insulated pipe: single-wall stays hot and can ignite the roof structure.",
+          "Improvising the roof flashing or using the wrong pitch flashing: leaks rot the roof, and a sloppy penetration is also a fire gap. Match flashing to pipe diameter and roof pitch.",
+          "Installing an exhaust fan with a wood stove: negative pressure can backdraft CO into the room. Use passive vents instead.",
+          "No fresh-air intake: in a tight trailer the stove starves, combustion goes incomplete, smoke and CO rise, and you get back-puffing.",
+          "Skipping the CO detector or putting it on the hot ceiling where it cooks and fails. Mount it on the wall and test it.",
+          "Stacking firewood, towels or kindling against the stove to dry: radiant heat ignites them. Keep everything outside the clearance zone.",
+          "Relying on general internet clearance numbers over the manufacturer's plate, or ignoring that road vibration can loosen the flue joints and shift the hearth, both of which must be re-checked after every move.",
+          "Emptying hot ash onto dry grass in a Chilean summer: serious wildfire risk. Use a lidded metal ash can and let ash go cold."
+        ]
+      },
+      {
+        "sectionKey": "woodspecies",
+        "sectionTitle": "Interior wood species — Chile-specific (benches & cladding)",
+        "overview": "Inside a sauna, wood is chosen for safety, not looks: bench and any skin-contact surface must be low-density and low thermal conductivity (so it stays cool and does not burn you at 80-90 C), free of resin (resin melts, sticks, burns and stains), free of knots, and splinter-free. The classic Nordic woods (spruce, aspen, western red cedar, abachi, alder) are either not stocked or only sold as expensive imported/specialty lumber in Chile, so the realistic, buildable answer here is: alamo (poplar) is the single best locally-available bench/skin-contact wood and is genuinely the same genus as aspen; for non-skin cladding (walls/ceiling) you have far more freedom, including native lenga, coigue and even tinglado de pino if you accept some knots and minor resin away from skin. Pino radiata is the cheap default everywhere in Chile (Sodimac/Easy/barracas) and is fine for the hidden structure/framing and arguably for ceiling/upper-wall cladding, but it is the wrong choice for benches and backrests because it is knotty and resinous. Never varnish or lacquer the inside; leave it raw or use only a breathable paraffin/sauna oil.",
+        "keyPoints": [
+          {
+            "heading": "Bench wood must be low thermal conductivity, resin-free, knot-free — the physics",
+            "detail": "Sauna benches and any surface skin touches need wood that stays cool and never melts. Ranked by thermal conductivity the classic bench woods are abachi (~0.09 W/mK), aspen (~0.10), western red cedar (~0.11), alder (~0.11-0.12) and Nordic spruce (~0.12). Lower number = stays cooler to the touch and far less likely to burn skin at 80-90 C. The bench wood must also be resin-free (resin melts, sticks to skin, burns and stains), knot-free (knots get hot and bleed sap) and fine-grained so it does not splinter on bare skin.",
+            "sourceUrl": "https://peakprimalwellness.com/blogs/wellness/best-wood-for-sauna",
+            "sourceTitle": "Best Wood for a Sauna: Cedar, Hemlock, Aspen & More Compared — Peak Primal Wellness"
+          },
+          {
+            "heading": "Alamo (poplar) is the best LOCAL bench wood in Chile — it is basically aspen",
+            "detail": "Alamo belongs to the same family/genus context as aspen (Populus), has a pale, smooth, near-odorless surface and meets every bench requirement: it does not secrete resin, does not splinter, and does not overheat, so it is comfortable for direct skin contact. Spanish-language sauna references explicitly call alamo/alamo temblon (aspen) one of the most desired woods for sauna benches. In Chile alamo is commercially grown and sold dry (alamo seco) on MercadoLibre Chile and at specialty barracas, making it the realistic, affordable substitute for imported aspen. Use it for bench tops, backrests, headrests and any slat you sit or lean on.",
+            "sourceUrl": "https://www.fluidra.com/es/soluciones-comerciales/inspiracion/blog/madera-adecuada-para-una-sauna/",
+            "sourceTitle": "Como elegir la madera adecuada para una sauna — Fluidra"
+          },
+          {
+            "heading": "AVOID pino and spruce on benches/backrests — resin burns and stains skin",
+            "detail": "Pine (pino) and Norwegian spruce both secrete resin/sap when heated; the resin melts, sticks to skin, causes burns and leaves stubborn stains. They are acceptable only for exterior or non-skin surfaces (upper walls, ceiling) where nobody leans against them, and even then you should pick low-knot boards. Quality sauna wood for seating must be knot-free and splinter-resistant. Bottom line for Chile: do not put pino radiata where bare skin sits or leans — that is the one hard no.",
+            "sourceUrl": "https://www.fluidra.com/es/soluciones-comerciales/inspiracion/blog/madera-adecuada-para-una-sauna/",
+            "sourceTitle": "Como elegir la madera adecuada para una sauna — Fluidra"
+          },
+          {
+            "heading": "Pino radiata is fine for the hidden STRUCTURE/framing, not for skin surfaces",
+            "detail": "For the wall/bench framing and studs behind the foil vapour barrier, plain kiln-dried (seco) pino radiata is the normal, accepted choice — use untreated kiln-dried lumber, never pressure-treated/impregnated wood (the green CCA/chemical-treated stuff), because pressure-treated wood off-gasses toxins under sauna heat. Best practice is to leave an air gap behind the cladding with 1x4 (or local 1x2/2x2) spacer battens between studs and the visible lining, which prevents mould in a well-ventilated sauna. Pino radiata is the cheapest framing timber in Chile and is correct here precisely because it is hidden and never touched.",
+            "sourceUrl": "https://peakprimalwellness.com/blogs/wellness/building-a-sauna",
+            "sourceTitle": "Building a Sauna: Framing, Insulation, and Vapor Barrier Guide — Peak Primal Wellness"
+          },
+          {
+            "heading": "Native lenga, coigue, rauli, mañio for CLADDING (walls/ceiling), not benches",
+            "detail": "For the visible wall and ceiling lining (no skin pressure), Chilean native hardwoods are a beautiful, durable, locally-stocked option sold as tongue-and-groove revestimiento. Lenga is native (Coyhaique/Aysen), dimensionally stable, light reddish tone, good in humid interiors. Coigue is a hard, durable native, white-brown to reddish, sold as interior cladding. Rauli and mañio are also offered as 20 mm kiln-dried revestimiento. Caveat: these are hardwoods (denser, heavier, hold heat more than alamo), so they are great for walls/ceiling but a poorer choice than alamo for a bench top you sit on for long sessions. They are also pricier than pino.",
+            "sourceUrl": "https://wmaderas.cl/products/revestimiento-interior-y-exterior-coihue",
+            "sourceTitle": "Revestimiento Coihue — WMaderas"
+          },
+          {
+            "heading": "Cheapest cladding: pino tinglado/machihembrado from Sodimac/Easy",
+            "detail": "If budget rules, the cheapest sauna lining in Chile is pino tinglado (overlap/shiplap) or machihembrado (tongue-and-groove) seco cepillado, stocked at Sodimac and Easy. Pino Tinglado Seco Cepillado 3/4x5 cm x 3.2 m runs about $3.090 CLP per pieza at Sodimac. This is acceptable for ceiling and upper walls (away from skin); choose the lowest-knot boards you can hand-pick, and reserve alamo for the bench zone. Pino machihembrado 3/4x5 x 3.2 m is also stocked for the same use.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110315729/Pino-Tinglado-Seco-Cepillado-3-4x5-cm-3,2-m/110315740",
+            "sourceTitle": "Pino Tinglado Seco Cepillado 3/4x5 cm 3,2 m — Sodimac Chile"
+          },
+          {
+            "heading": "Thermo-modified (termotratada) radiata pine — the premium bench upgrade made in/near Chile",
+            "detail": "Thermally modified radiata pine (heated >200 C in an oxygen-free chamber) loses its resin and most of its movement: the result has no knots issue, releases no resin, does not splinter and stays cool — explicitly described as ideal for sauna benches. Because radiata pine is the dominant Chilean plantation species, thermo-treated radiata is produced regionally (Topwood Duolux and similar suppliers sell madera termotratada in Chile). It is more expensive than raw pino but far cheaper than imported cedar/abachi and is the best-value high-end bench/cladding option if you want a darker, fully stable, resin-free wood without importing.",
+            "sourceUrl": "https://lunawood.com/es/story/5-razones-por-las-que-la-madera-termotratada-thermowood-es-la-mejor-madera-para-saunas/",
+            "sourceTitle": "5 razones por las que la madera termotratada Thermowood es la mejor madera para saunas — Lunawood"
+          },
+          {
+            "heading": "Treatment: leave it RAW or use only paraffin/sauna oil — never varnish or lacquer",
+            "detail": "Inside the hot room you must not seal the wood with varnish, lacquer or ordinary barniz: those films trap moisture, peel, and release harmful fumes when heated. The correct approach is to leave the wood bare, or treat only every 6-12 months with a breathable wood preservative — paraffin-based sauna oil (aceite/parafina para sauna) on benches and headrests. Clean with a soft brush and water, never a pressure washer. Note that lenga/coigue cladding accepts oils well, but inside a sauna you still skip the lacquer.",
+            "sourceUrl": "https://www.fluidra.com/es/soluciones-comerciales/inspiracion/blog/madera-adecuada-para-una-sauna/",
+            "sourceTitle": "Como elegir la madera adecuada para una sauna — Fluidra"
+          },
+          {
+            "heading": "Native hardwood cladding pricing per m2 (real barraca quotes)",
+            "detail": "Concrete Chilean per-m2 revestimiento (cladding) prices from a native-wood barraca, 20 mm kiln-dried (seco camara): Coigue ~$41.412/m2, Rauli ~$56.834/m2, Mañio ~$56.834/m2. These are real interior-lining hardwoods and let you budget the difference vs pino tinglado (roughly $3.090 per 3.2 m pieza of 5 cm width, i.e. far cheaper per m2). For a small 1.7 x 3.0 m sauna, doing benches in alamo and walls/ceiling in pino tinglado keeps cost low; an all-native-wood interior is a real but markedly pricier upgrade.",
+            "sourceUrl": "https://www.maderanativachilena.cl/maderas/",
+            "sourceTitle": "Maderas — Madera Nativa Chilena"
+          }
+        ],
+        "chileNotes": [
+          "Alamo (poplar, genus Populus, ~aspen) is the realistic local stand-in for imported aspen and the best LOCAL bench wood. Sold as 'alamo seco' on MercadoLibre Chile and at specialty barracas; not always stocked at big-box stores, so check barracas and ML classifieds.",
+          "Western red cedar and abachi (the classic premium sauna woods) are essentially import-only / specialty in Chile and expensive — do not plan a budget build around them.",
+          "Native cladding hardwoods are genuinely available: lenga (from Coyhaique/Aysen, light reddish, stable), coigue (hard, durable, white-brown to reddish), rauli and mañio. Suppliers: WMaderas, Madera Nativa Chilena, Maderas Tranapuente, Anihue, Forestal Maihue.",
+          "Native revestimiento pricing (20 mm seco camara): coigue ~$41.412/m2, rauli ~$56.834/m2, mañio ~$56.834/m2 (Madera Nativa Chilena / WMaderas).",
+          "Cheapest cladding is pino tinglado / machihembrado seco cepillado at Sodimac and Easy: e.g. Pino Tinglado Seco Cepillado 3/4x5 cm x 3.2 m about $3.090 CLP/pieza at Sodimac.",
+          "Pino radiata (the dominant Chilean plantation wood) is cheap and everywhere — correct for hidden framing (kiln-dried, NOT impregnated/pressure-treated), wrong for benches and skin-contact surfaces because of knots and resin.",
+          "Thermo-modified radiata pine (madera termotratada) is produced regionally (e.g. Topwood Duolux) and is the best-value resin-free dark upgrade without importing.",
+          "Use paraffin/sauna oil only (parafina/aceite para sauna); never barniz or laca inside the hot room."
+        ],
+        "tips": [
+          "Build the bench and backrest from alamo seco, hand-picking knot-free, straight-grained boards; use hidden stainless or galvanized fasteners countersunk below the surface so no hot metal touches skin.",
+          "Round over (chamfer/sand) every bench edge and corner — splinter prevention matters more than species on a surface you sit on bare.",
+          "Run cladding boards horizontally on walls is fine, but a vertical orientation sheds condensation better; whatever you choose, leave a ventilated air gap behind it with 1x2/2x2 pino battens.",
+          "Mix to save money: pino tinglado on the ceiling and upper walls (no skin contact), alamo on the bench and the lower 'lean-back' zone where your skin actually touches.",
+          "If you can stretch the budget, do the bench top in thermo-treated radiata or alamo and the rest in pino — that single upgrade buys the most comfort and safety per peso.",
+          "Buy the wood kiln-dried (seco/seco camara), let it acclimate inside the trailer cabin for a few days before fixing, and leave small expansion gaps between boards.",
+          "Use stainless or hot-dip galvanized screws/nails everywhere inside — plain steel rusts and bleeds black stains in the humid heat."
+        ],
+        "pitfalls": [
+          "Putting pino or spruce where skin sits/leans: resin melts at sauna temperature, sticks to and burns skin, and leaves permanent stains. This is the classic beginner mistake.",
+          "Using pressure-treated / impregnated (green) lumber anywhere in the sauna, even framing: the preservative chemicals off-gas toxic fumes under heat. Use untreated kiln-dried wood only.",
+          "Varnishing or lacquering the interior to 'protect' or 'finish' it: the film traps moisture, blisters, and releases harmful fumes when hot. Leave raw or use breathable paraffin/sauna oil only.",
+          "Choosing dense native hardwoods (coigue, rauli) for the bench top because they look nicer: they hold more heat than alamo and can feel uncomfortably hot to sit on; keep hardwoods for walls/ceiling.",
+          "Buying knotty pino tinglado without hand-picking: knots bleed sap and get hot; for any board near skin, select the clearest pieces or just use alamo.",
+          "Exposed metal fasteners on bench surfaces: hot screw/nail heads burn skin — always countersink and plug, or use hidden fixing.",
+          "Assuming cedar/abachi are easy to get in Chile and budgeting around them — they are scarce and costly here; design around alamo + pino instead."
+        ],
+        "costNotes": [
+          {
+            "item": "Pino Tinglado Seco Cepillado 3/4x5 cm x 3,2 m (cheapest cladding, walls/ceiling away from skin)",
+            "estimateCLP": "~$3.090 CLP por pieza",
+            "note": "Sodimac. Pick low-knot boards; not for skin-contact surfaces.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110315729/Pino-Tinglado-Seco-Cepillado-3-4x5-cm-3,2-m/110315740"
+          },
+          {
+            "item": "Pino Certificado Seco Cepillado 2x6 x 3,2 m (framing / structure)",
+            "estimateCLP": "~$7.990 CLP (Easy) / ~$8.300 IVA inc (Chocalan)",
+            "note": "Kiln-dried, untreated — use for hidden bench/wall framing only.",
+            "sourceUrl": "https://www.easy.cl/search/tabla%20cepillada"
+          },
+          {
+            "item": "Coigue revestimiento (interior cladding), 20 mm seco camara",
+            "estimateCLP": "~$41.412 CLP/m2",
+            "note": "Native hardwood; good for walls/ceiling, heavier/hotter than alamo for benches.",
+            "sourceUrl": "https://www.maderanativachilena.cl/maderas/"
+          },
+          {
+            "item": "Rauli revestimiento, 20 mm seco camara",
+            "estimateCLP": "~$56.834 CLP/m2",
+            "note": "Native hardwood cladding; premium look, pricier.",
+            "sourceUrl": "https://www.maderanativachilena.cl/maderas/"
+          },
+          {
+            "item": "Mañio revestimiento, 20 mm seco camara",
+            "estimateCLP": "~$56.834 CLP/m2",
+            "note": "Native softwood/lighter species; cladding use.",
+            "sourceUrl": "https://www.maderanativachilena.cl/maderas/"
+          },
+          {
+            "item": "Alamo seco (poplar) — best local bench wood",
+            "estimateCLP": "Varies; sold by tabla/pieza on MercadoLibre Chile and barracas",
+            "note": "Not consistently big-box stocked; source via ML 'alamo seco' or specialty barraca. Confirm current per-pieza price with seller.",
+            "sourceUrl": "https://listado.mercadolibre.cl/alamo-seco"
+          }
+        ]
+      },
+      {
+        "sectionKey": "interior",
+        "sectionTitle": "Interior fit-out: benches, door, glass, lighting, fixtures",
+        "overview": "The interior fit-out is where a budget DIY sauna lives or dies on comfort and safety. For a 1.7 x 3.0 m trailer cabin you have room for an L-shaped or single-run two-tier bench: a high tier deep enough to lie down (60 cm) and a low tier to climb on and to rest feet. The two non-negotiable safety rules are: every fastener that could touch skin must be hidden (screw from underneath, or countersink deep and plug), and the door must swing OUTWARD with no lock and only a magnetic or roller-ball catch, so a person who faints can be pulled out. In Chile, classic sauna woods (cedar, Nordic spruce, aspen/abachi) are scarce or imported and expensive, so the practical play is: hidden pine-radiata framing (cheap, everywhere) clad in a low-resin, low-knot wood for the surfaces you actually touch (alamo/poplar is the best-value local match for aspen; alerce/cipres are premium native options). Avoid knotty pino radiata on bench tops and anywhere skin rests because the knots bleed resin and conduct heat. Most fixtures (thermometer/hygrometer, bucket and ladle, IP65 heat-tolerant lighting) are sourceable on MercadoLibre Chile or Sodimac for modest CLP.",
+        "keyPoints": [
+          {
+            "heading": "Two-tier bench dimensions for a 1.7 x 3.0 m cabin",
+            "detail": "Upper (foot/sit-and-lie) bench: 89-107 cm off the floor, 51-61 cm deep (use the full 60 cm so an adult can lie flat). Lower bench: 43-48 cm off the floor, 36-51 cm deep (min 40 cm to be usable). Keep the gap between tiers ~46 cm so you can step up easily, and leave at least 109-119 cm of clear headroom above the upper bench. Allow ~60 cm of bench length per seated person and at least 190 cm of clear run if anyone will lie down — your 3.0 m wall easily covers a full-length recline.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/how-to-best-build-sauna-benches",
+            "sourceTitle": "How to Build Sauna Benches: Materials, Dimensions, Construction — Haven of Heat"
+          },
+          {
+            "heading": "Put the bench high relative to the heater (löyly zone)",
+            "detail": "The upper bench should sit roughly at or just above the top of the heater stones so your body is in the hot 'sweat zone' where steam from the rocks rises. Plan the bench height first, then choose/position the heater so the rock tops are near upper-bench level; if the bench is far below the stones you sit in a cool layer and the sauna feels weak. A practical target is upper bench around 100-110 cm with the heater stones at a similar height, and ~46 cm of vertical separation to the lower bench/feet.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/sauna-ceiling-bench-height-finnish-expert-tips",
+            "sourceTitle": "Sauna Ceiling & Bench Height Masterclass — Haven of Heat"
+          },
+          {
+            "heading": "Hidden fasteners: screw from underneath, never from the top",
+            "detail": "Build a hidden frame from cheap construction lumber (pino radiata 2x4 / 50x100 mm equivalent) with cross-braces every ~41 cm. Then run the finish boards across the top and fasten them ONLY from underneath, up into the frame, using stainless-steel screws (316 stainless is best; it never rusts and stays cool enough to be safe). No screw head should ever be on a surface skin touches. If you absolutely must fasten from above, countersink well below the surface and plug with a wood dowel. Leave a 1 cm (3/8\"-1/2\") gap between surface boards so water drains and air circulates, and a few mm gap to the walls.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/a-better-sauna-bench/",
+            "sourceTitle": "A better sauna bench — SaunaTimes"
+          },
+          {
+            "heading": "Bench and skin-contact wood: use low-resin, low-knot species",
+            "detail": "Bench tops, backrests and headrests must be a wood that does NOT bleed resin, does not splinter, and stays cool to the touch. Recommended: aspen/alamo (poplar), alder (aliso), western red cedar, or thermally-modified pine. Explicitly AVOID pine and spruce with knots on skin-contact surfaces: when heated they 'secretan resina (savia)... se derrite, se pega a la piel, provoca quemaduras' (resin melts, sticks to skin, causes burns). So plain knotty pino radiata is fine for the HIDDEN frame and walls but should not be your bench top.",
+            "sourceUrl": "https://www.fluidra.com/es/soluciones-comerciales/inspiracion/blog/madera-adecuada-para-una-sauna/",
+            "sourceTitle": "Cómo elegir la madera adecuada para una sauna — Fluidra"
+          },
+          {
+            "heading": "Door must open outward, no lock, only a magnetic/ball catch",
+            "detail": "Outward swing is a safety/egress requirement (echoed by IBC and health codes): if someone faints inside, rescuers must pull the door open even if a body is slumped against it. Use NO keyed lock and no inside latch that can jam — just a simple magnetic catch or roller-ball catch (or a cheap spring closer) that holds the door shut but pops open with a push of body weight. Test it with wet palms. Mount strap or stainless/brass hinges on the outside frame.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/build-your-own-sauna-door/",
+            "sourceTitle": "How to Build Your Own Sauna Door — SaunaTimes"
+          },
+          {
+            "heading": "Door handle and DIY door build",
+            "detail": "Inside handle must be WOOD, never metal — a metal handle gets dangerously hot. SaunaTimes builds a door over a 3/4\" plywood core: staple foil vapor barrier to the inner face, clad both sides in tongue-and-groove (cedar/low-resin wood), and cut the plywood short at the bottom to leave an air-intake slat for combustion/ventilation. A typical rough opening is ~26\" x 6'5\" giving ~24.5\" x 6'4\" of actual opening. You can cut a window and silicone-set a small tempered glass panel (12\"x12\" is typical).",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/build-your-own-sauna-door/",
+            "sourceTitle": "How to Build Your Own Sauna Door — SaunaTimes"
+          },
+          {
+            "heading": "Glass vs solid door: efficiency tradeoff",
+            "detail": "Only tempered safety glass may be used — it resists thermal shock and breaks into small rounded pieces, not shards. A solid 1.5-2\" wood door loses only ~5-10% of heat through the door area; a full glass door loses ~35-50% (glass R-value is near zero). For a small, occasionally-moved trailer sauna heated to temperature, a solid wood door (or a mostly-wood door with a small tempered window for light and to reduce the closed-in feeling) is the cheaper, more efficient, easier-to-build choice. A full glass door is mainly worth it for looks/claustrophobia and needs good weatherstripping.",
+            "sourceUrl": "https://peakprimalwellness.com/blogs/wellness/sauna-door-guide-1774943229085",
+            "sourceTitle": "Sauna Door Guide: Glass vs. Wood, Sizing & Installation — Peak Primal Wellness"
+          },
+          {
+            "heading": "Lighting: mount LOW, use heat/water-rated fixtures",
+            "detail": "Because heat rises, mount lights LOW — under the bench front, behind a backrest, or low on the wall — not up at the ceiling where it is hottest. Any fixture must be rated for continuous high temperature (look for ~90°C / 194°F rating) and have a high IP rating: IP65 minimum, IP67/IP68 for anything near the bench or exposed to splashed water/löyly. Heat-rated LED strip behind a wooden light shield gives a soft glare-free glow and runs cooler than a hot bulb. Never put an unrated standard bulb high in the cabin — its electronics cook and fail.",
+            "sourceUrl": "https://www.superlightingled.com/blog/sauna-lighting-guide-crafting-a-safe-and-relaxing-sauna-room/",
+            "sourceTitle": "Sauna Lighting Guide: Safe and Relaxing Sauna Room — SuperLightingLED"
+          },
+          {
+            "heading": "Duckboard floor and removable bench/backrest panels",
+            "detail": "Build a removable duckboard floor from 1x3\" slats laid with ~1 cm gaps over perpendicular sleepers (one each end, one center), fastened with stainless screws, sitting on small rubber feet so the wood stays out of standing water and dries. Make backrests and even bench tops as removable slatted panels (same gap principle) so you can lift them out to dry and clean — important on a trailer that may sit unused between uses. A slight 10-15 degree backward lean is the ergonomic sweet spot for a backrest.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/sauna-benches/",
+            "sourceTitle": "Sauna Benches — SaunaTimes"
+          },
+          {
+            "heading": "Fixtures: thermometer/hygrometer, bucket and ladle",
+            "detail": "A 2-in-1 analog thermometer + hygrometer (one dial showing °C and % relative humidity) is the standard cheap sauna gauge and is sold on MercadoLibre Chile; mount it at upper-bench head height where you actually sit. A wooden bucket (cubeta/balde) with a long-handled ladle (cucharón/cazo), 4-7 L, lets you throw water on the stones for löyly; wood is preferred over metal so the handle does not get hot. TyloHelo has a Chilean storefront (tylohelo.cl) selling genuine sauna buckets, ladles and accessories if you want a known brand rather than a generic import.",
+            "sourceUrl": "https://www.mercadolibre.cl/2-in-1-sauna-thermometer-fahrenheit-sauna-thermometer-hyg/p/MLC2018038648",
+            "sourceTitle": "Termómetro de sauna 2 en 1 (termómetro + higrómetro) — MercadoLibre Chile"
+          }
+        ],
+        "chileNotes": [
+          "Wood substitution is the key Chile decision: classic aspen/abachi/cedar are imported and pricey. Best-value local match for a low-resin, cool-to-touch bench surface is ÁLAMO (poplar) — Fluidra explicitly lists álamo as a top bench wood. Suppliers like Madefan (Santiago) sell álamo and pine; ask your barraca for álamo cepillado sin nudos.",
+          "Premium native options sold in southern Chile: ALERCE and CIPRÉS (ciprés de las Guaitecas / ciprés common) are naturally rot-resistant and low-resin; some Chilean artisan sauna builders use álamo, ciprés or roble. Alerce is protected/expensive — buy only certified/recovered alerce, and expect a high price.",
+          "AVOID for bench tops: knotty pino radiata (the default cheap board everywhere in Chile). Its knots bleed resin and conduct heat — fine for the hidden frame and ceiling, not for skin-contact surfaces. Use clear/knot-free álamo or alder on tops, backrests, headrests.",
+          "Framing and wall cladding: pino radiata machihembrado (tongue-and-groove) is cheap and everywhere — Arauco, Barraca La Estrella, Madefan, Construmart, Sodimac, Easy all carry it kiln-dried (~15% humidity). Use it for the hidden bench frame, ceiling and walls.",
+          "Tempered glass (vidrio templado): cut-to-size is sold across MercadoLibre Chile and by local vidrierías; a small window panel is cheap, a full tempered glass door is much more. Order a small panel for the door and silicone it in.",
+          "Heat/water-rated lighting: IP65 LED fixtures and strips are on MercadoLibre Chile and at Led Studio Chile / Sodimac; confirm the temperature rating, not just IP. Generic IP65 floodlights are cheap but verify they tolerate sauna heat — safest is to mount low.",
+          "Stainless steel screws (tornillos inox / A2 or A4/316): available at Sodimac, Easy, Construmart and ferreterías. A4/316 is the marine-grade equivalent and the safest for the hot, humid sauna interior.",
+          "Accessories (termómetro/higrómetro, balde y cucharón) are on MercadoLibre Chile; TyloHelo Chile (tylohelo.cl) is a real in-country sauna-accessory supplier for brand-name bucket/ladle and gauges."
+        ],
+        "tips": [
+          "Set the upper bench height FIRST, then position the heater so the rock tops sit near bench level — this is what makes the löyly feel strong.",
+          "Use clear (knot-free) álamo only on surfaces you touch; save the cheaper knotty pino radiata for the hidden frame and walls. This single substitution is the biggest comfort/safety win on a budget.",
+          "Pre-drill and screw bench boards from underneath with A4/316 stainless. Buy a cheap stainless screw assortment and a Torx bit so heads don't strip in hard wood.",
+          "Make the bench tops, backrests and floor duckboard REMOVABLE slatted panels — on a trailer that sits unused, you want to lift everything out to dry and prevent mold.",
+          "Door: wooden handle inside, magnetic/roller-ball catch only, outward swing. Add a cheap spring closer so it never gets left open and bleeds heat.",
+          "Leave a bottom air-intake gap at the door (cut the door slightly short) for ventilation and, if you go wood-fired, combustion air.",
+          "Mount the thermometer/hygrometer at head height by the upper bench, not by the door, so it reads where you actually sit.",
+          "For lighting, a heat-rated LED strip hidden behind a wooden shield under the upper bench is the safest, cheapest, most pleasant option — no hot bulb at face height."
+        ],
+        "pitfalls": [
+          "Using knotty pino radiata on bench tops or backrests — resin oozes when hot, sticks to and burns skin. The single most common DIY mistake in Chile.",
+          "Exposed metal: top-driven screw heads, a metal door handle, or visible hinge hardware inside reach burning temperatures. Hide all fasteners; use a wood handle.",
+          "An inward-opening door or any lock/jamming latch — a fainted bather can block an inward door, and a lock can trap someone. Both are genuine safety hazards.",
+          "A full glass door without good weatherstripping and a small heater — you lose 35-50% of heat through the glass and the sauna struggles to reach temperature.",
+          "Mounting lights high near the ceiling with a non-heat-rated bulb/fixture — the electronics overheat and fail, and you risk a fixture failure right where it's hottest.",
+          "Sealing/varnishing interior wood — never varnish or oil sauna interior surfaces; the finish off-gasses and can blister. Leave wood bare (only a sauna-rated paraffin oil on benches if anything).",
+          "Bench depth too shallow (<50 cm) on the top tier — you can't lie down and the sauna feels cramped despite the 3 m length being available.",
+          "Duckboard or bench panels screwed down permanently with no airflow underneath — on an occasionally-used trailer this traps moisture and breeds mold and rot."
+        ]
+      },
+      {
+        "sectionKey": "ventilation",
+        "sectionTitle": "Ventilation & loyly (steam) for a good sauna experience",
+        "overview": "Ventilation is the single most under-built part of most DIY saunas, and on a sealed trailer cabin it is doubly important: you need fresh oxygen for breathing (and, with a wood stove, for safe combustion and CO removal), plus a working air loop so the heat reaches your body evenly and the loyly (steam from water on the rocks) feels soft instead of stale and heavy. The classic budget setup is a low fresh-air intake near or under the heater, and an adjustable exhaust on the opposite wall below the upper bench, with a second high vent used only for drying out the cabin after a session. A wood stove largely creates its own draft through the chimney (so a passive low intake near the stove can be enough), while an electric heater has no draft and benefits from a small mechanical exhaust fan to guarantee airflow. Good loyly also depends on the stones: you want a solid mass of dense, porous volcanic rock (basalt/olivina) so the surface stays hot and turns water into fine steam, and in Chile these are cheap and easy to source. Build every vent adjustable so you can tune it through Chile's cold winters and milder shoulder seasons.",
+        "keyPoints": [
+          {
+            "heading": "Low intake near the heater, adjustable exhaust on the opposite wall below the bench",
+            "detail": "The standard convection layout puts the fresh-air intake low, near the base of the heater, so incoming air is heated immediately and rises, and the main exhaust diagonally opposite the heater below bench level, around 400 mm off the floor. This pulls warm, fresh air down across the bathers before it exits, instead of dumping your heat and steam straight out. Add a second vent at/near the ceiling that you open only AFTER the session to dry the cabin. Make every vent adjustable (a sliding plate) so you can tune airflow.",
+            "sourceUrl": "https://finnmarksauna.com/en-us/blogs/sauna-how-to-guides/sauna-ventilation-guide",
+            "sourceTitle": "Sauna Ventilation: Why It Matters and How to Get It Right - Finnmark Sauna"
+          },
+          {
+            "heading": "Wood vs electric: the wood stove drafts itself, the electric heater needs help",
+            "detail": "A wood-burning stove pulls combustion air and creates draft through its chimney flue, so natural ventilation works fairly well with just a low intake near the stove. An electric heater has no combustion and no draft, so natural convection in an electric sauna is unreliable and rarely moves enough air; a small inline/mechanical exhaust fan is recommended to guarantee fresh air. This matters for your trailer because the choice of heater directly changes how much ventilation hardware you need to build.",
+            "sourceUrl": "https://localmile.org/trumpkins-notes-on-building-a-sauna/",
+            "sourceTitle": "Trumpkin's Notes On Building A Sauna - LocalMile"
+          },
+          {
+            "heading": "Downdraft ventilation protects the loyly instead of killing it",
+            "detail": "Trumpkin's widely-cited notes argue for downdraft ventilation: fresh supply high (near the ceiling over the heater) and mechanical exhaust low on the back wall below the foot platform. This works with the convective loop, removes exhaled CO2, keeps feet and legs warm, kills mold/bacteria on the foot bench, and crucially enhances rather than exhausts the steam. An exhaust placed in the ceiling during use sucks your steam and heat straight out and kills the loyly before you feel it. A high vent is for drying AFTER the session, not for use during it.",
+            "sourceUrl": "https://localmile.org/proper-ventilation-for-electrically-heated-sauna-part-i/",
+            "sourceTitle": "Proper Ventilation For Electrically Heated Saunas - LocalMile"
+          },
+          {
+            "heading": "Vent sizing and air-change targets you can build to",
+            "detail": "For a family-sized hot room, aim for an intake of at least 25 sq inches (about 160 cm2), with 30 sq inches (about 195 cm2) better, and avoid restrictive grills that choke airflow. The whole-room target is roughly 6 air changes per hour during use, and the human-air rule of thumb is about 9-12 L/s (20-25 CFM) per person to keep CO2 below ~700 ppm. For your ~1.7 x 3.0 m trailer (a small 2-3 person hot room), a single ~100 mm round adjustable intake and a similar-sized adjustable exhaust, plus one high drying vent, covers it.",
+            "sourceUrl": "https://www.saunatimes.com/building-a-sauna/sauna-venting-everyone-has-an-opinion/",
+            "sourceTitle": "Sauna venting: everyone has an opinion - SaunaTimes"
+          },
+          {
+            "heading": "Ventilation is what makes steam into loyly, not just hot fog",
+            "detail": "Loyly is the burst of humid steam when water hits the hot stones; it enters the body through breath and skin. But steam thrown into stale, oxygen-depleted air is just stale air with steam in it, not loyly. Proper fresh-air circulation lets you breathe deeply and feel the oxygenation and thermal effect, and makes the steam feel soft rather than harsh and suffocating. Wood-heated rooms tend to give softer steam than electric. So ventilation is not just safety, it is directly the difference between a good and a bad sauna.",
+            "sourceUrl": "https://www.saunatimes.com/sauna-philosophy/what-is-the-difference-between-a-good-sauna-and-a-bad-sauna/",
+            "sourceTitle": "Good sauna vs. bad sauna: one simple way to tell the difference - SaunaTimes"
+          },
+          {
+            "heading": "Stones are the thermal engine: use dense porous volcanic rock and enough of it",
+            "detail": "Sauna stones are the thermal mass that converts dry heat into loyly. Use high-density igneous rock (olivine diabase, peridotite, basalt) 2-4 inches across for an electric heater; these resist cracking and hold heat so the surface stays hot enough to flash water into fine steam. A residential heater typically holds 30-70 kg of stones depending on model. Rinse stones before first use, stack them loosely so air and water pass through, and replace any that crumble. More stone mass = a longer, softer loyly.",
+            "sourceUrl": "https://sunvalleysaunas.com/products/huum-sauna-heater-stones",
+            "sourceTitle": "HUUM Sauna Heater Stones | Olivine Diabase Granite - Sun Valley Saunas"
+          },
+          {
+            "heading": "Wood stove: dedicate a combustion-air intake and fit a CO detector",
+            "detail": "If you go wood, the stove needs its own fresh-air intake near it so there is enough oxygen for complete combustion; insufficient air causes incomplete burning, smoke and carbon monoxide buildup. CO is colorless and odorless. In a small sealed trailer this is a real safety issue: provide a low outside-air inlet near the stove, keep the chimney/flue clear and properly drafted, burn only seasoned dry hardwood, and install a battery CO detector in the cabin. This combustion-air vent is separate from your comfort ventilation loop.",
+            "sourceUrl": "https://www.lamppakuuma.com/2024/12/ventilation-and-drafting-a-sauna-stove/",
+            "sourceTitle": "Ventilation and Drafting a Sauna Stove - KUUMA"
+          },
+          {
+            "heading": "Humidity control: open the high vent and dry the cabin after every session",
+            "detail": "On a wooden trailer cabin, trapped moisture rots timber and grows mold. The drying vent at ceiling level should be opened after use so humid air escapes and the cabin dries fully. During use you control humidity by how much water you throw on the stones and by your adjustable vents; after use you switch to full drying. Leaving the door cracked and the high vent open for an hour post-session is the cheapest mold prevention you can do.",
+            "sourceUrl": "https://finnmarksauna.com/en-us/blogs/sauna-how-to-guides/sauna-ventilation-guide",
+            "sourceTitle": "Sauna Ventilation Guide - Finnmark Sauna"
+          }
+        ],
+        "chileNotes": [
+          "Sauna stones are cheap and local in Chile: Saunatec (saunatec.cl) sells 10 kg of porous selected basalt (piedra volcanica) for about $45.000 CLP. Basalt/olivina from Chile's volcanic geology is exactly the right rock type, so there is no need to import Finnish stones.",
+          "MercadoLibre Chile (listado.mercadolibre.cl/piedras-volcanicas-para-sauna) lists volcanic sauna stones roughly $3.990 to $47.000 CLP, and many electric calefactores ship bundled with stones (e.g. a 4.5 kW cabin heater + 5 kg volcanic stones, max ~10 kg capacity).",
+          "Do NOT reuse random river/beach stones or decorative landscaping rock: non-igneous or layered stones can trap water, crack and even explode when heated. Stick to the dense porous volcanic basalt sold specifically for saunas.",
+          "Bench and interior wood: alamo (poplar) is the budget-friendly Chilean go-to for benches because it does not bleed resin, stays cool to the touch, is soft and splinter-resistant. Native coigue and lenga are also used locally and have good physical properties for sauna/tina work.",
+          "AVOID resinous pine (pino radiata/insigne is everywhere and cheap but oozes hot resin that burns skin) for benches and any skin-contact surface. If you use pino radiata, restrict it to the structure/exterior, not the bench tops or backrests.",
+          "All sauna wood should be kiln-dried (secado en horno) to survive the humidity/heat cycling, per Chilean sauna wood guidance.",
+          "Adjustable vents: cheap circular adjustable vents (rejilla de ventilacion regulable circular) are on MercadoLibre Chile; for the hot interior face, a simple sliding alamo wood cover over a 100 mm duct is the traditional, heat-safe, low-cost solution.",
+          "Buy a CO detector (detector de monoxido de carbono) at Sodimac/Easy if you choose a wood stove. On a small sealed trailer this is non-negotiable safety hardware, not optional."
+        ],
+        "tips": [
+          "Build all vents adjustable. A sliding wooden plate over each duct lets you choke airflow in cold central-southern winters to hold heat, and open up in milder weather or when the cabin feels stuffy.",
+          "Put the intake low and as close to the heater as practical so cold incoming air is heated instantly and joins the convection loop instead of pooling as a cold draft at floor level.",
+          "Place the working exhaust on the wall opposite the heater, below the upper bench (around 400 mm off the floor), and a separate small vent near the ceiling used only to dry the cabin after the session.",
+          "If you go electric, budget a small quiet inline duct fan for the exhaust. Test the noise before final install; a noisy fan ruins the calm of the sauna.",
+          "Fill the heater fully with stones and stack them loosely, not packed tight, so water and air pass through. Throw water in small ladles onto the hottest part for fine soft loyly rather than one big harsh blast.",
+          "Throw water only on the stones, never directly on electric elements or the metal body of the heater.",
+          "Rinse new stones with clean water before first firing to wash off dust, and re-stack/replace crumbling stones every season or two.",
+          "Crack the door and open the high drying vent for ~30-60 min after each session to dry the timber and prevent mold on the trailer's wooden interior."
+        ],
+        "pitfalls": [
+          "Putting the exhaust in the ceiling and running it during the session. It sucks your heat and steam straight out and kills the loyly before you feel it. The ceiling vent is for drying afterward only.",
+          "Assuming an electric sauna ventilates itself. With no combustion draft, passive airflow is unreliable; without a fan or a well-designed low/high vent pair the room goes stale and stuffy.",
+          "Sealing the trailer airtight with no fresh-air intake. You will run out of oxygen, build up CO2, and with a wood stove risk dangerous carbon monoxide. Always provide a real fresh-air inlet.",
+          "Wood stove with no dedicated combustion-air vent and no CO detector. Incomplete combustion from starved air produces odorless, deadly carbon monoxide in a small sealed cabin.",
+          "Using too few stones or the wrong rock. A near-empty heater or non-volcanic/layered stones give weak, harsh steam and stones can crack or explode. Fill it with proper dense porous basalt/olivina.",
+          "Skipping the post-session dry-out. Trapped humidity rots the trailer's wooden frame and grows mold fast.",
+          "Using resinous pino radiata for benches. Hot resin blisters bare skin. Keep skin-contact surfaces to alamo or a non-resinous native wood.",
+          "Choking airflow with a restrictive decorative grille on the intake. Keep the free area at least ~25-30 sq inches so the convection loop actually moves air."
+        ]
+      },
+      {
+        "sectionKey": "sourcing",
+        "sectionTitle": "Local sourcing map: suppliers, where to buy what in Chile",
+        "overview": "For a trailer sauna in central-southern Chile, almost everything except the heater and a few specialty trims can be bought off the shelf at Sodimac, Easy, Construmart, Imperial or a local barraca/maderera. The big-box chains cover framing pine (pino dimensionado seco), tongue-and-groove cladding (machihembrado), glass-wool insulation with aluminum foil facing, high-temp silicone and stainless fasteners. The two things to source carefully are (1) the bench/cladding wood, since classic Nordic spruce/cedar/abachi are scarce and pricey here, so you adapt to álamo (poplar), tilo, or native lenga/coigüe/raulí; and (2) the heater, where you choose between cheap Chinese 220V electric units on MercadoLibre or a Chilean-built wood stove (Nordicasa, Buena Caldera, Tinas Calientes). Dedicated sauna parts (volcanic stones, heaters, glass doors) come from MercadoLibre Chile and a handful of Chilean importers/builders like Saunatec, Comercializadora Saunas (Harvia agent), Tecnic Sauna and Saunas Osorno. Budget the heater as your single biggest line item; the wood and insulation are comparatively cheap.",
+        "keyPoints": [
+          {
+            "heading": "Framing lumber: pino dimensionado seco at Sodimac/Construmart/Easy",
+            "detail": "Use kiln-dried pine framing (pino dimensionado SECO, ~12-15% humidity, never 'verde'/green which warps) for the wall and bench studs. At Sodimac, Pino Dimensionado Seco 2x2 3,2 m and 2x3 3,2 m are stock items; the green equivalents run roughly $1.750 CLP (2x2) and $2.680 CLP (2x3) per 3,2 m piece, with dry/cepillado a bit more. Construmart and Easy carry the same 2x2, 2x3 and 2x4 in 3,2 m lengths. For a 1,7 x 3,0 m footprint you need maybe 25-35 pieces. Avoid impregnated/treated pine (arsenic/copper salts) anywhere near the hot interior; reserve impregnado only for the trailer-contact base frame.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110315145/Pino-Dimensionado-Seco-2x3-3,2-m/110315152",
+            "sourceTitle": "Pino Dimensionado Seco 2x3 3,2 m | Sodimac Chile"
+          },
+          {
+            "heading": "Cladding and ceiling: pino machihembrado / tinglado (cheapest option)",
+            "detail": "The default budget interior lining is tongue-and-groove radiata pine: 'Pino Machihembrado Seco Cepillado' (e.g. 3/4 x 4 x 3,2 m, and a thinner 1/2 x 4 'cielo' version for the ceiling) at Sodimac, Construmart (3/4 x 5 x 3,2 m, pino radiata dried to ~12%) and Easy. ARAUCO's MSD line is the brand behind much of it. It is cheap and easy, BUT radiata pine is resinous: knots can weep hot sap. If you go this route, hand-pick low-knot boards, keep pine OFF direct skin-contact bench tops, and accept it for walls/ceiling only.",
+            "sourceUrl": "https://www.construmart.cl/perfil-seco-machihembrado-3-4x5-3-2-mt/p",
+            "sourceTitle": "Pino Seco Machihembrado 3/4\" x 5\" 3,2 m | Construmart"
+          },
+          {
+            "heading": "Bench wood: álamo (poplar) is the local sauna-grade choice; native woods as upgrade",
+            "detail": "For benches and backrests (direct skin contact) the right local pick is álamo/poplar: it secretes no resin, doesn't splinter, stays cool to the touch and is hypoallergenic. Sauna-wood guides explicitly recommend álamo (and tilo/linden for sensitive skin) and warn AGAINST resinous spruce/fir and against abedul/birch for poor durability. Buy álamo cepillado (planed boards) from a barraca/maderera (Madefan, Maderas Llaima, local álamo suppliers) or MercadoLibre 'tabla álamo'. Native upgrades sold by specialty mills (Maderas Tranapuente, Añihue) include raulí cepillado, lenga and coigüe, which are stable and attractive but cost more. Whatever the species, leave a 1-2 cm air gap behind cladding and never finish interior wood with varnish.",
+            "sourceUrl": "https://maderame.com/maderas-saunas/",
+            "sourceTitle": "Maderas para Saunas: Características y Mejores Tipos"
+          },
+          {
+            "heading": "Insulation + vapor barrier in one: foil-faced glass wool at Sodimac",
+            "detail": "Sodimac stocks 'Lana De Vidrio 50 mm Con Una Cara Con Foil De Aluminio' (50 mm glass wool with an aluminum-foil face) which gives you insulation and the reflective vapor barrier in a single product, exactly what a sauna wall needs. Plain mineral wool 50 mm (AISLAN R122, 0,5x1,2 m) is about $49.000-52.000 CLP per pack and also sold by Easy, Imperial and Socodima. Install the foil facing toward the hot interior, tape all seams with aluminum tape, then batten and clad over an air gap. Glass/mineral wool tolerates sauna heat; do NOT use polystyrene/EPS 'plumavit' or PUR foam on hot walls.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/124826947/Lana-De-Vidrio-50-mm-Con-Una-Cara-Con-Foil-De-Aluminio/124826949",
+            "sourceTitle": "Lana De Vidrio 50 mm Con Una Cara Con Foil De Aluminio | Sodimac Chile"
+          },
+          {
+            "heading": "Electric heater (220V): cheap Chinese units on MercadoLibre Chile",
+            "detail": "If you go electric (220V grid available), the budget path is a 4,5 kW 220V monophase sauna heater (brands like Keya) on MercadoLibre Chile, frequently bundled with 5 kg of volcanic stones and an integrated or separate control. A 4,5 kW unit suits a small ~5-8 m3 room, which matches your trailer footprint. Listings span roughly $59.990 to $438.000 CLP depending on power, brand and whether a digital controller is included; many ship free nationwide and offer cuotas sin interés. Rule of thumb: ~1 kW per m3 of room volume. A 4,5 kW unit on 220V draws ~20 A, so verify your trailer feed and breaker.",
+            "sourceUrl": "https://listado.mercadolibre.cl/calefactor-electrico-para-sauna",
+            "sourceTitle": "Calefactor Electrico Para Sauna | MercadoLibre Chile"
+          },
+          {
+            "heading": "Wood stove option: Chilean-made sauna heaters (Nordicasa, Buena Caldera, Tinas Calientes)",
+            "detail": "For a wood-fired sauna, several Chilean makers build steel stoves to Finnish patterns. Nordicasa (Puerto Varas) sells a 'Estufa Sauna a Leña', Finnish design made in Chile, 60x60x100 cm, for 8-18 m3 rooms, including volcanic stones and chimney, at about $1.290.000 CLP (made-to-order, ~4 weeks). Buena Caldera lists an 'Estufa Leña Sauna 15B'. Tinas Calientes (Puerto Varas) sells interior wood heaters from ~$559.300 CLP, XL ~$583.000, external calderas ~$797.300, and packages from ~$652.000 CLP. A wood stove needs an insulated flue, a 1x1 m non-combustible base and clearances, but no electrical permit.",
+            "sourceUrl": "https://www.nordicasa.cl/estufa-sauna",
+            "sourceTitle": "Estufa Sauna a Leña - Nordicasa"
+          },
+          {
+            "heading": "Volcanic sauna stones: Saunatec and MercadoLibre",
+            "detail": "Heater stones are peridotite-type volcanic rock, prized for being porous and heat-stable. Saunatec Chile sells a 10 kg box of 'Piedras Volcánicas Calefactor Sauna' for about $45.000 CLP; MercadoLibre Chile has many 'piedras volcánicas para sauna' listings with free same-day shipping, and Tinas Calientes sells a stone box too. A small heater needs roughly 5-15 kg. Rinse stones before first use, stack loosely for airflow, and replace any that crack. Do not substitute random river/garden rocks (they can explode when heated).",
+            "sourceUrl": "https://saunatec.cl/producto/piedras-volcanicas-calefactor-sauna-10kg/",
+            "sourceTitle": "Piedra Volcánica Sauna 10kg - Saunatec"
+          },
+          {
+            "heading": "Glass door and complete kits: Harvia agent + Chilean builders",
+            "detail": "Tempered-glass sauna doors (typically 8 mm smoky tempered glass, wood or aluminum frame) are sold on MercadoLibre Chile ('puerta vidrio templado sauna') and via importers. Comercializadora Saunas (ventas@harvia.cl, Santiago, +56 9 7156 7500) is the Chilean Harvia representative and supplies heaters, controls, stones, doors and full custom cabins with installation. Tecnic Sauna (40+ years, Finnish saunas) and Saunas Osorno also build and outfit saunas and can supply parts or serve as a price reference. For a budget trailer build, a plain tempered-glass shower/sauna door plus a wood frame you build yourself is the cheapest route.",
+            "sourceUrl": "https://comercializadorasaunas.cl/",
+            "sourceTitle": "Venta y Fabricación de Saunas en Chile | Comercializadora Saunas (Harvia)"
+          },
+          {
+            "heading": "Sealants and fasteners: high-temp silicone + stainless screws",
+            "detail": "Around the stove, flue penetration and any glass, use high-temperature silicone (rated ~250-316°C; brands at Sodimac include Agorex, Lanco, Soudal, Ceys; a 300 ml cartridge of 'Silicona para Altas Temperaturas' is a stock item). For everything that touches the hot, humid interior use STAINLESS or hot-dip galvanized screws/nails so heads don't rust and burn skin or stain wood; Sodimac, Easy, Construmart and Imperial all carry stainless terrace/deck screws. Aluminum foil tape for sealing the vapor-barrier seams is sold alongside the lana de vidrio. Avoid plain bright steel fasteners and ordinary acrylic/latex sealants on hot surfaces.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110272585/Silicona-para-altas-temperaturas-300-ml/110272589",
+            "sourceTitle": "Silicona para altas temperaturas 300 ml | Sodimac Chile"
+          }
+        ],
+        "chileNotes": [
+          "Big-box one-stop shops: Sodimac (Homecenter), Easy, Construmart, plus Imperial and Socodima for insulation; all carry pino dimensionado, machihembrado, lana de vidrio/mineral, silicones and stainless fasteners.",
+          "Barracas/madereras are cheaper than big-box for solid lumber and the only realistic source of álamo and native species: Madefan, Maderas Llaima, Maderas Tranapuente (raulí/native cepillado), Añihue (maderas nativas).",
+          "Wood-species reality in Chile: Nordic spruce, western red cedar, abachi and aspen are scarce/expensive imports. Local equivalents: álamo (poplar) and tilo for benches/skin contact; raulí, lenga, coigüe for premium native cladding; radiata pine machihembrado as the cheap wall/ceiling option (low-knot only, never on bench tops).",
+          "Heater sourcing splits two ways: cheap 220V Chinese electric units on MercadoLibre Chile (Keya etc., $60k-$440k CLP), or Chilean-built wood stoves from Nordicasa, Buena Caldera and Tinas Calientes (Puerto Varas region, ~$560k-$1.290k CLP).",
+          "Dedicated sauna specialists/importers in Chile: Saunatec (stones, parts), Comercializadora Saunas (official Harvia agent, Santiago), Tecnic Sauna, Saunas Osorno, Patagonia Garden (prefab cabins) — useful for heaters, glass doors, controls and as price references even if you self-build.",
+          "Volcanic (peridotite) heater stones: Saunatec 10 kg ~$45.000 CLP, plus MercadoLibre and Tinas Calientes. Many electric heaters on MercadoLibre already include 5 kg of stones.",
+          "MercadoLibre Chile is the best aggregator for heaters, stones and glass doors with free shipping and cuotas sin interés; Yapo is worth checking for second-hand stoves, glass doors and surplus lumber to keep the build cheap.",
+          "Prices in CLP confirmed mid-2026: foil-faced/plain glass wool 50 mm ~$49k-$52k/pack; pino dimensionado ~$1.750-$2.680 per 3,2 m; high-temp silicone 300 ml stock at Sodimac; electric heater 4,5 kW from ~$60k; Chilean wood stove from ~$559k."
+        ],
+        "tips": [
+          "Buy a foil-faced glass wool (lana de vidrio con foil de aluminio) to get insulation + vapor barrier in one product, then aluminum-tape every seam; cheaper and faster than separate foil sheeting.",
+          "Always specify SECO (kiln-dried) lumber, not VERDE (green), or it will warp and crack as the sauna heats and dries.",
+          "Hand-select machihembrado boards at the barraca for the fewest knots, and use the planed álamo or a native wood for the bench tops your skin actually touches.",
+          "Get the heater first and size everything else around it: ~1 kW electric per m3 of room volume; your ~1,7x3,0 m trailer at ~2 m height is roughly 8-10 m3, so a 4,5-6 kW electric or an 8-18 m3 wood stove fits.",
+          "Check Yapo and MercadoLibre 'usado' for a second-hand stove, glass door or leftover native lumber to slash cost; a used trailer build pairs well with used parts.",
+          "Leave a 1-2 cm ventilated air gap behind the cladding and use only stainless/galvanized fasteners inside so nothing rusts or burns skin.",
+          "Call Comercializadora Saunas (Harvia) or Tecnic Sauna for a heater/controller quote even if self-building, to benchmark the cheap MercadoLibre units against certified gear."
+        ],
+        "pitfalls": [
+          "Using impregnated/treated pine (pino impregnado, green, with copper/arsenic salts) inside the hot room — it off-gasses; keep it only for the base frame in contact with the trailer.",
+          "Putting resinous radiata pine where skin touches it: hot knots weep sap and can burn. Pine is fine for walls/ceiling (low-knot), not for bench tops — use álamo/tilo/native there.",
+          "Installing polystyrene 'plumavit' or PUR foam as wall insulation — it cannot take sauna heat. Use only glass wool / mineral wool (lana de vidrio o lana mineral).",
+          "Skipping or wrongly orienting the foil vapor barrier: the aluminum face must point toward the hot interior, with all seams taped, or moisture wrecks the wall.",
+          "Buying the cheapest no-name MercadoLibre electric heater without checking kW vs room volume and 220V amperage/breaker — undersized or unsafe wiring is a real risk; have an SEC-authorized electrician sign off the 220V circuit.",
+          "Varnishing or oil-finishing interior wood — finishes blister and off-gas at sauna temperatures; leave interior wood bare (paraffin oil only on the door handle/exterior).",
+          "Using ordinary river or garden stones instead of peridotite/volcanic sauna stones — trapped moisture makes them crack or explode when heated.",
+          "Note Barraca Paraná in the álamo search is in Uruguay, not Chile — buy álamo from a Chilean barraca (Madefan, Maderas Llaima) or MercadoLibre Chile instead."
+        ],
+        "costNotes": [
+          {
+            "item": "Pino dimensionado 2x2 / 2x3 seco (framing), per 3,2 m piece",
+            "estimateCLP": "$1.750 - $3.500 CLP",
+            "note": "Green prices quoted ($1.750 2x2, $2.680 2x3); dry/cepillado slightly higher. ~25-35 pieces for the frame.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110315145/Pino-Dimensionado-Seco-2x3-3,2-m/110315152"
+          },
+          {
+            "item": "Pino machihembrado/tinglado seco cepillado (wall/ceiling cladding), per 3,2 m board",
+            "estimateCLP": "$3.000 - $6.000 CLP",
+            "note": "Radiata pine T&G, Sodimac/Construmart/Easy; thinner 'cielo' for ceiling. Low-knot only; not for bench tops.",
+            "sourceUrl": "https://www.construmart.cl/perfil-seco-machihembrado-3-4x5-3-2-mt/p"
+          },
+          {
+            "item": "Glass wool / mineral wool 50 mm (foil-faced or plain), per pack/roll",
+            "estimateCLP": "$49.000 - $80.000 CLP",
+            "note": "AISLAN R122 50 mm ~$49k-52k; foil-faced lana de vidrio combines insulation + vapor barrier. Easy/Imperial/Socodima also stock it.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/124826947/Lana-De-Vidrio-50-mm-Con-Una-Cara-Con-Foil-De-Aluminio/124826949"
+          },
+          {
+            "item": "Electric sauna heater 4,5 kW 220V (often with stones/control)",
+            "estimateCLP": "$59.990 - $438.000 CLP",
+            "note": "MercadoLibre Chile, brands like Keya. ~$60k-150k for basic Chinese units; certified Harvia gear far higher. Size ~1 kW/m3.",
+            "sourceUrl": "https://listado.mercadolibre.cl/calefactor-electrico-para-sauna"
+          },
+          {
+            "item": "Wood-burning sauna stove, Chilean-made (Nordicasa / Buena Caldera / Tinas Calientes)",
+            "estimateCLP": "$559.300 - $1.290.000 CLP",
+            "note": "Tinas Calientes interior from ~$559.300; Nordicasa 8-18 m3 with stones + chimney ~$1.290.000. Made-to-order, ~4 weeks.",
+            "sourceUrl": "https://www.nordicasa.cl/estufa-sauna"
+          },
+          {
+            "item": "Volcanic (peridotite) sauna stones, 10 kg box",
+            "estimateCLP": "$45.000 CLP",
+            "note": "Saunatec 10 kg ~$45k; MercadoLibre cheaper per kg in bundles; many electric heaters include 5 kg.",
+            "sourceUrl": "https://saunatec.cl/producto/piedras-volcanicas-calefactor-sauna-10kg/"
+          },
+          {
+            "item": "High-temperature silicone sealant, 300 ml cartridge",
+            "estimateCLP": "$4.000 - $9.000 CLP",
+            "note": "Sodimac stock (Agorex/Lanco/Soudal/Ceys), rated ~250-316°C, for flue/glass/stove joints.",
+            "sourceUrl": "https://www.sodimac.cl/sodimac-cl/articulo/110272585/Silicona-para-altas-temperaturas-300-ml/110272589"
+          },
+          {
+            "item": "Tempered-glass sauna/shower door",
+            "estimateCLP": "$120.000 - $730.000 CLP",
+            "note": "MercadoLibre Chile tempered-glass shower/sauna doors at the low end; branded Harvia glass door ~730 EUR as a high reference.",
+            "sourceUrl": "https://listado.mercadolibre.cl/puerta-de-vidrio-templado"
+          }
+        ]
+      },
+      {
+        "sectionKey": "pitfalls",
+        "sectionTitle": "Common mistakes, maintenance & winterizing",
+        "overview": "Most DIY sauna failures trace back to four things: a missing or wrongly-installed vapor barrier, poor in/out ventilation, an incorrectly-sized heater, and using the wrong wood or finish on surfaces that touch skin. On a trailer, two more dominate: overloading or unbalancing the axle (water and a wood stove are heavy), and water/rust attacking the steel chassis in wet Chilean winters. For a 1.7 x 3.0 m mobile sauna in central-southern Chile, the build itself is very doable, but the margins for error are thinner than a backyard build because everything is smaller, moves, and sits outdoors. The good news: the classic Nordic woods you read about (cedar, abachi, aspen) have a cheap, locally-grown equivalent here in alamo (poplar), which is genuinely low-resin and stays cool. Get the vapor barrier, ventilation, heater sizing, stove clearances and wood choice right, then maintain it with light frequent drying and seasonal rust/freeze checks, and it will last many years.",
+        "keyPoints": [
+          {
+            "heading": "Vapor barrier: foil on the WARM side, sealed continuous, never plain plastic",
+            "detail": "The aluminum-foil vapor barrier goes on the interior (hot) side of the insulation, directly behind the wood paneling, not on the cold/outside face. Use sauna-grade aluminum foil and overlap seams 2-3 inches sealed with foil tape; seal every wiring, light and vent penetration. Do NOT use ordinary 6-mil polyethylene: it off-gases, softens and reflects no radiant heat at 80-100C. The single most common failure is a 'mostly sealed' barrier where moisture sneaks through unsealed seams and wall-to-floor joints and rots the framing.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/how-to-insulate-a-sauna-vapor-barrier-r-values-and-common-mistakes",
+            "sourceTitle": "How to Insulate a Sauna: Vapor Barrier, R-Values, and Common Mistakes - Haven of Heat"
+          },
+          {
+            "heading": "Leave a 2 cm air gap behind the paneling",
+            "detail": "After the foil, install 1x2 or 1x3 furring strips, then nail the tongue-and-groove over those, leaving a 19-25 mm (3/4 to 1 inch) air gap between foil and wood. This gap reflects radiant heat, lets condensation drain instead of soaking the boards, and gives a nailing surface. Skipping it is a hidden cause of warped, blackened paneling a few years in. Target roughly R-15 walls / R-19+ ceiling for a moderate climate; ceiling R-value should exceed wall R-value.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/how-to-insulate-a-sauna-vapor-barrier-r-values-and-common-mistakes",
+            "sourceTitle": "How to Insulate a Sauna: Vapor Barrier, R-Values, and Common Mistakes - Haven of Heat"
+          },
+          {
+            "heading": "Ventilation: low intake near the heater, high exhaust on the OPPOSITE wall",
+            "detail": "Put the fresh-air intake low (about 30 cm off the floor) next to the heater, and the exhaust high near the ceiling on the opposite wall so air crosses the whole room. Vents on the same wall short-circuit and do nothing. Aim for roughly 6 air changes per hour. Do not seal the room airtight or close all vents to 'trap heat' during use; that kills oxygen and air quality and is the number-one cause of musty mold smell because humidity never dries out. In a tiny trailer cabin the exhaust matters even more for fast dry-down.",
+            "sourceUrl": "https://thermalfinn.com/sauna-builds/sauna-ventilation/",
+            "sourceTitle": "Sauna Ventilation Guide: Intake, Exhaust & the 6x Air Exchange Rule - ThermalFinn"
+          },
+          {
+            "heading": "Heater sizing: about 1 kW per 1.4 m3, round UP, add for glass and steel",
+            "detail": "Rule of thumb is roughly 1 kW per 50 cubic feet (about 1.4 m3) of interior volume. A 1.7 x 3.0 m sauna with usable interior near 1.5 x 2.6 m and a 2.0 m ceiling is roughly 7.8 m3, so a 4.5-6 kW heater is the right band; a 4.5 kW 220V unit (20 A) is common in Chile. Undersizing means it never reaches 80-90C, runs constantly and burns out early; oversizing dries the air and wastes money. Add about 1 kW per 1 m2 of glass and 10-20% for under-insulated or hard (steel/glass) surfaces, then round up.",
+            "sourceUrl": "https://www.saunaplace.com/blogs/blogs/how-many-kilowatts-do-you-need-for-a-sauna-heater-a-simple-sizing-guide",
+            "sourceTitle": "How Many Kilowatts Do You Need for a Sauna Heater? - The Sauna Place"
+          },
+          {
+            "heading": "Wood-stove clearances and a non-combustible hearth are non-negotiable",
+            "detail": "If you go wood-fired, keep 400-600 mm (manufacturer-specific) from combustible walls, or use a cement-board/steel heat shield to reduce that. Stovepipe needs ~450 mm to combustibles, or use double-wall pipe (allows ~150 mm). Set the stove on a non-combustible hearth (concrete/tile/steel) extending at least 300 mm on all sides and 450-500 mm in front of the door for falling embers. Use proper insulated chimney through the roof. These setbacks are tight inside a small trailer, which is the strongest argument for going electric on this build.",
+            "sourceUrl": "https://peakprimalwellness.com/blogs/wellness/sauna-wood-stove",
+            "sourceTitle": "Sauna Wood Stove Guide: How to Size and Install One - Peak Primal Wellness"
+          },
+          {
+            "heading": "Wood stove = mandatory CO detector and dedicated combustion air",
+            "detail": "A wood stove in a small sealed cabin can produce carbon monoxide if it cannot draw enough air. Install a fresh-air inlet near the stove sized to match exhaust, never run it with all vents closed, and put a battery CO detector inside the sauna. Insufficient air causes incomplete combustion, smoke and CO buildup. For a tiny 1.7 x 3 m trailer where you sit a meter from the firebox, this is a serious safety line, not optional.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-heater-guides/best-practices-using-wood-burning-sauna-heater-indoors",
+            "sourceTitle": "Best Practices for Using a Wood-Burning Sauna Heater Indoors - Haven of Heat"
+          },
+          {
+            "heading": "Never varnish, paint or seal the interior; benches need low-resin wood",
+            "detail": "Do not paint, varnish, stain or polyurethane interior wood: it seals the wood (traps moisture, causes cracking and mold) and off-gases VOCs at 80-90C with people breathing. Avoid boiled linseed oil too (solvents and metal dryers off-gas). The only widely-accepted interior treatment is food-grade paraffin sauna oil in thin coats. For benches and backrests use knot-free, low-resin wood that stays cool; avoid resinous pine/spruce on skin-contact surfaces because sap oozes when hot, gets sticky and can burn skin.",
+            "sourceUrl": "https://havenofheat.com/blogs/sauna-guides/how-to-finish-wood-in-sauna",
+            "sourceTitle": "How to Finish the Wood in a Sauna - Haven of Heat"
+          },
+          {
+            "heading": "Trailer: know your GVWR and keep weight balanced over the axle",
+            "detail": "Mobile-sauna failures often come down to weight, not towing skill. Know the trailer GVWR, axle rating and tongue weight before building, and weigh components as you go. Water is the most underestimated load (a small tank shifts 100+ kg instantly and sloshes), and a cast-iron wood stove plus stones is heavy and concentrated. Center heavy items over the axle, keep ~10% of total weight on the tongue, and remember insulation + vapor barrier + air gap + cladding on both faces eats a lot of your 1.7 m width, so plan the interior early.",
+            "sourceUrl": "https://www.saunatimes.com/types-of-saunas/mobile-saunas/chassis-considerations-for-a-mobile-sauna-build/",
+            "sourceTitle": "Chassis Considerations for a Mobile Sauna Build - SaunaTimes"
+          },
+          {
+            "heading": "Maintenance: light frequent drying beats occasional heavy scrubbing",
+            "detail": "After every session wipe benches and backrests with a damp cloth and warm water (with the grain), then leave the door and vents open so residual heat dries the cabin; this prevents mold far better than deep cleans. Use towels on benches to keep sweat out of the wood. For grime use a soft brush; for deeper cleaning a 1:1 white vinegar/water spray (sit 15 min, wipe) or diluted baking soda. Bleach (1:10) only for actual mold spots. A small ceiling exhaust fan dramatically cuts mold risk in a humid outdoor cabin.",
+            "sourceUrl": "https://heavenlyheatsaunas.com/blogs/wellness-insights/12-proven-ways-to-prevent-mold-in-a-sauna",
+            "sourceTitle": "12 Proven Ways to Prevent Mold in a Sauna - Heavenly Heat Saunas"
+          },
+          {
+            "heading": "Winterizing: drain all water, blow out lines, dry and cover",
+            "detail": "For a sauna left outdoors through a cold/wet Chilean winter, the lowest-risk approach is full drain-down each autumn: empty the loyly bucket, any tank, and any plumbing, blow out the lines so nothing freezes and cracks, dry the interior, and fit a quality breathable cover. Water frozen in a tank, pipe or pump can burst it (repairs commonly USD 200-1500). If you have any electric freeze-protection feature it only works while powered on, so do not rely on it for an off-grid winter. Heated year-round operation only makes sense if you sauna often.",
+            "sourceUrl": "https://www.redwoodoutdoors.com/blogs/sauna-blog/winterize-sauna-cold-plunge-checklist",
+            "sourceTitle": "How to Winterize Your Sauna and Cold Plunge - Redwood Outdoors"
+          },
+          {
+            "heading": "Protect the steel chassis from rust before it ever gets wet",
+            "detail": "On a second-hand Chilean trailer the chassis is the part that will die first. Treat bare/rusted steel with an anticorrosive primer, then topcoat, or use a zinc-rich cold-galvanizing paint (galvanizado en frio) which sacrifices zinc instead of the steel. After each use and through winter, wash off mud, dry it, and grease bolts and hard-to-reach joints. Store it dry and covered when not in use. This is exactly the regime Chilean trailer and coatings suppliers recommend for our wet winters.",
+            "sourceUrl": "https://trailermax.com.ve/2025/12/09/cuida-el-chasis-de-tu-remolque-tips-para-prevenir-la-corrosion/",
+            "sourceTitle": "Cuida el chasis de tu remolque: tips para prevenir la corrosion - Trailermax"
+          },
+          {
+            "heading": "Hidden long-term failure points: corroded hardware and wood movement",
+            "detail": "By year 1-2, hidden fasteners, electrical terminals and sensor connections corrode in the humid heat, causing erratic temperature readings, shutoffs or tripped breakers. Repeated heat cycling also makes wood check, warp and open gaps. Mitigate with stainless fasteners, generous ventilation/dry-down, kiln-dried vertical-grain boards, and a periodic (yearly) inspection of fasteners, heater terminals, vapor-barrier seams and wood condition; track trends rather than single readings.",
+            "sourceUrl": "https://inhousewellness.com/blogs/saunas/hidden-failure-points-diy-sauna-steam-projects",
+            "sourceTitle": "Hidden DIY Sauna & Steam Failure Points: Year 5 Reality Check - InHouse Wellness"
+          }
+        ],
+        "chileNotes": [
+          "Alamo (poplar) is the standout local sauna wood: grown from Region IV to XI, white, light, low-resin, dimensionally stable and notably resistant to humidity/rot. It is the cheap Chilean stand-in for aspen/abachi and is the right choice for benches and backrests (skin contact). Sold as revestimiento/machihembrado by barracas like W Maderas, Maderas Emilio Pohl, Lifewood and Tranapuente.",
+          "Avoid pino radiata (the cheapest board at Sodimac/Easy/barracas) on benches and any skin-contact surface: it has knots and resin pockets (bolsas de resina) that ooze sticky sap and can burn skin when hot. It is acceptable only for hidden framing, never for the hot interior face if you can use alamo instead.",
+          "For tinas/saunas, Chilean builders traditionally use alamo, cipres and roble for their natural rot/fungal resistance; alamo tubs are quoted at roughly 10-12 years of life, which tells you alamo handles humidity well.",
+          "Native woods coigue, rauli and lenga are sold by barracas (maderanativachile.cl, Maderera Nacional, Tranapuente) but are denser/pricier and not necessary for a budget build; coigue is light and workable if you want a feature bench but alamo is cheaper.",
+          "Electric heaters are readily available locally on MercadoLibre Chile at 220V: a 4.5 kW unit (20 A, monophase 220V or 380V) around CLP $219.000, and 4 kW cabin heaters also listed. With grid power present and the tight clearances of a 1.7 m cabin, electric is the simpler, safer pick over a wood stove for this trailer.",
+          "Rust protection products are easy to source here: anticorrosive primers/paints (Cintac, Pinturas Iverzur), and cold-galvanizing zinc paint such as Corium C-78 from Magna Industrial. Wash road salt/mud off and re-grease bolts each winter.",
+          "Aluminum foil vapor barrier and foil tape, plus rock-wool/glass-wool insulation, are stocked at Sodimac, Easy and Construmart; do not substitute the foil with the cheap polyethylene rolls sold for under-slab use."
+        ],
+        "tips": [
+          "Given 220V is available and clearances are tight in a 1.7 m cabin, default to a 4.5 kW electric heater; reserve the wood-stove option only if you accept the hearth/chimney/CO complexity.",
+          "Build benches and all skin-contact surfaces in alamo (poplar); keep cheaper pino radiata only for hidden framing.",
+          "Mount a removable bench so you can lift it out to dry and scrub the floor underneath, where moisture and mold collect.",
+          "Install a small 12V or 220V ceiling exhaust fan to force dry-down after each session; the cabin is small so even a tiny fan clears humidity fast.",
+          "Treat and seal the trailer chassis (anticorrosive primer or cold-galvanize) BEFORE you build the cabin on top, while you still have full access.",
+          "Slope the floor slightly to a drain and use a non-slip, non-combustible floor (tile or treated concrete board) under and around the heater.",
+          "Keep a written weight tally as you build and confirm you are under the trailer GVWR and axle rating before the first tow.",
+          "Store a battery CO detector and a small fire extinguisher inside; if wood-fired the CO detector is mandatory.",
+          "Each autumn: drain the loyly bucket and any water/plumbing, blow out lines, dry the interior, and fit a breathable cover."
+        ],
+        "pitfalls": [
+          "Putting the vapor barrier on the cold/outside face, or using ordinary polyethylene instead of aluminum foil; it off-gases, doesn't reflect heat, and rots the framing.",
+          "Leaving seams, pipe and wire penetrations unsealed so the 'mostly sealed' barrier leaks moisture into the walls.",
+          "Omitting the air gap behind the cladding, leading to warped, blackened boards.",
+          "Both vents on the same wall, or sealing the cabin airtight / closing vents during use, which causes musty mold smell and (with a stove) CO risk.",
+          "Undersizing the heater so it never reaches temperature and burns out, or oversizing so it bakes and dries the air.",
+          "Varnishing, painting or polyurethane-sealing the interior wood, or using boiled linseed oil; off-gasses and traps moisture.",
+          "Using resinous knotty pino radiata on benches where hot sap oozes and burns skin.",
+          "Wood stove with inadequate clearances, no non-combustible hearth, no proper insulated chimney, or no CO detector.",
+          "Overloading the trailer or putting heavy water tank/stove off-axis so it tows unsafely and sloshes.",
+          "Skipping chassis rust treatment, then letting mud and winter wet sit on bare steel.",
+          "Leaving water in a bucket, tank or pipe over a freezing winter, cracking the component.",
+          "Heavy occasional scrubbing instead of wiping and drying after every session, which lets mold establish.",
+          "Ignoring hidden corroded fasteners and heater terminals until they cause shutoffs or tripped breakers."
+        ],
+        "costNotes": [
+          {
+            "item": "Electric sauna heater, 4.5 kW, 220V (20 A)",
+            "estimateCLP": "$219.000 CLP",
+            "note": "Keya-type unit on MercadoLibre Chile; right power band for ~8 m3 cabin. 4 kW cabin units also listed.",
+            "sourceUrl": "https://articulo.mercadolibre.cl/MLC-1517787273-calefactor-para-sauna-45kw-220v-_JM"
+          },
+          {
+            "item": "Alamo (poplar) interior cladding / benches",
+            "estimateCLP": "Quote from barraca",
+            "note": "Low-resin, light, humidity-resistant local wood; sold dry and ready to install by W Maderas, Emilio Pohl, Lifewood, Tranapuente. Contact for per-m2 price; budget alternative to imported aspen/cedar.",
+            "sourceUrl": "https://wmaderas.cl/products/revestimiento-alamo"
+          },
+          {
+            "item": "Cold-galvanizing zinc paint (galvanizado en frio) for chassis",
+            "estimateCLP": "Quote",
+            "note": "Corium C-78 zinc-rich paint, sacrificial cathodic protection for the steel trailer frame; from Magna Industrial.",
+            "sourceUrl": "https://magnaindustrial.cl/corium-c-78-galvanizado-en-frio-pintura-plateada-brillante-proteccion-oxido-oxidacion-corrosion-proteccion-galvanica-pintura-zinc/"
+          }
+        ]
+      }
+    ],
+    "budget": {
+      "assumptions": [
+        "Trailer is already owned at ~500.000 CLP; it is included in both grand totals as the user requested.",
+        "Trailer is a small carro de arrastre in the 500-750 kg cargo class (no freno), already with patente/papeles al dia. SOAP (~3.900/yr) and permiso de circulacion (~15.000-30.000/yr) are recurring and NOT included in the build total; revision tecnica (~5.000-10.000) is a one-off shown only as a note.",
+        "Interior hot room is roughly 1.6 m x 2.2 m x 2.0 m high = ~7 m3 air volume, ~3.5 m2 floor. Wall + ceiling cladding area ~18-22 m2, insulation area ~20 m2.",
+        "Grid 220V is available but the standard 40 A monophase empalme leaves no room for a 6 kW+ electric heater alongside the house, so the LEAN tier uses a small 4.5 kW electric heater (20 A) and the COMFORTABLE tier uses a purpose-built Chilean wood sauna stove (no empalme upgrade, no SEC trifasico cost).",
+        "Owner is a moderately handy DIYer doing all labor; no paid carpentry/welding labor is budgeted. A SEC-authorized electrician is budgeted in the LEAN tier only for the heater circuit (the one task you cannot legally self-do).",
+        "Prices are mid-2026 CLP from the gathered Sodimac/Easy/Construmart/MercadoLibre/barraca/maker data. Ranges reflect low-knot vs better stock and Santiago availability.",
+        "Bench tops and all skin-contact surfaces use alamo (poplar); pino radiata seco (kiln-dried, never impregnated) is used only for hidden framing; pino impregnado only for the exterior sub-floor.",
+        "Wood stove tier includes the matched factory chimney kit, volcanboard heat shield, hearth and a battery CO detector as non-negotiable safety items."
+      ],
+      "leanTier": {
+        "label": "LEAN build (cheapest viable, electric 4.5 kW, alamo benches over radiata frame, salvaged/basic skin)",
+        "totalCLP": "$1.085.000 - $1.460.000 CLP",
+        "lineItems": [
+          {
+            "item": "Second-hand trailer (already owned)",
+            "costCLP": "$500.000",
+            "note": "Carro de arrastre ~500-750 kg class; included in total per request. Add ~$25.000-45.000/yr for SOAP + permiso de circulacion (recurring, not in build total)."
+          },
+          {
+            "item": "Chassis rust protection (anticorrosive primer + cold-galv zinc paint)",
+            "costCLP": "$15.000 - $30.000",
+            "note": "Iverzur/Cintac primer or Corium C-78 zinc paint on the steel frame before building."
+          },
+          {
+            "item": "Exterior sub-floor / platform: pino impregnado deck + OSB",
+            "costCLP": "$25.000 - $45.000",
+            "note": "3-4 planchas OSB 11mm (~$5.500-9.000 ea) or impregnated deck boards. Outdoor sub-floor only, never interior."
+          },
+          {
+            "item": "Framing: pino dimensionado seco 2x2 / 2x3, ~28 pieces",
+            "costCLP": "$50.000 - $85.000",
+            "note": "~$1.750-3.000 per 3,2 m piece. Kiln-dried, untreated, for hidden tabique only."
+          },
+          {
+            "item": "Exterior skin: pino tinglado impregnado / salvaged siding",
+            "costCLP": "$45.000 - $80.000",
+            "note": "~$3.090-4.061 per board; check Yapo for surplus lumber to cut this."
+          },
+          {
+            "item": "Insulation: glass wool 50 mm (lana de vidrio), ~20 m2",
+            "costCLP": "$40.000 - $65.000",
+            "note": "TOPEX/AISLANGLASS rolls; buy unfaced 'libre' so the foil is the only vapor barrier."
+          },
+          {
+            "item": "Vapor barrier: aluminium foil barrier + foil tape",
+            "costCLP": "$25.000 - $45.000",
+            "note": "FSK/foil-faced barrier (Sodimac/Aislacel) + genuine cinta de aluminio (~$8.000-12.000/roll). NOT cloth duct tape, NOT polyethylene."
+          },
+          {
+            "item": "Interior wall/ceiling cladding: pino tinglado seco cepillado (low-knot)",
+            "costCLP": "$60.000 - $95.000",
+            "note": "~$3.090/pieza x ~20-25 boards. Low-knot only; walls/ceiling away from skin contact."
+          },
+          {
+            "item": "Bench tops + backrests: alamo seco (poplar) ~3-4 m2",
+            "costCLP": "$60.000 - $110.000",
+            "note": "Quote from barraca/ML 'alamo seco'. Non-negotiable that skin-contact surfaces are NOT radiata pine."
+          },
+          {
+            "item": "Electric sauna heater 4.5 kW 220V (Keya-type, often incl. ~5 kg stones)",
+            "costCLP": "$150.000 - $230.000",
+            "note": "MercadoLibre; ~$219.000 typical. 20 A draw fits a 220V monophase circuit with headroom."
+          },
+          {
+            "item": "Extra volcanic stones to fill the box (10-25 kg)",
+            "costCLP": "$16.000 - $45.000",
+            "note": "If heater ships with only 5 kg; saco 25 kg ~$16.000 (BuenaCaldera) up to Saunatec 10 kg ~$45.000."
+          },
+          {
+            "item": "SEC electrician: dedicated heater circuit (breaker + RCD + cable)",
+            "costCLP": "$60.000 - $120.000",
+            "note": "20 A circuit, RCD and AWG cable for a 4.5 kW unit. The one task you cannot legally self-do in Chile."
+          },
+          {
+            "item": "Door: cheap solid/glazed panel siliconed in (no full tempered door)",
+            "costCLP": "$30.000 - $80.000",
+            "note": "Small tempered window panel from a vidrieria + DIY alamo frame, or a salvaged door reworked."
+          },
+          {
+            "item": "Ventilation: 100 mm duct + sliding alamo cover + cheap intake vent",
+            "costCLP": "$8.000 - $18.000",
+            "note": "Rejilla regulable on ML for intake; traditional wood sliding cover on the hot face."
+          },
+          {
+            "item": "Fasteners + high-temp silicone + sealant (stainless inox A2/A4)",
+            "costCLP": "$25.000 - $45.000",
+            "note": "Tornillos inox, tirafondos, nyloc, Sika PU under bottom plate, high-temp silicone $4.000-9.000."
+          },
+          {
+            "item": "IP65 LED light (mounted low) + basic termometro/higrometro + balde/cucharon",
+            "costCLP": "$25.000 - $55.000",
+            "note": "Generic IP65 LED on ML; verify heat tolerance, mount low. Cheap gauge + bucket set."
+          },
+          {
+            "item": "Heater clearances / minimal heat shield (volcanboard offcut)",
+            "costCLP": "$10.000 - $25.000",
+            "note": "Volcanboard sheet for behind/under the electric heater; lighter need than a wood stove."
+          }
+        ]
+      },
+      "comfortTier": {
+        "label": "COMFORTABLE build (Chilean wood sauna stove + matched flue, alamo benches, native/alamo cladding, glass door, mineral-wool insulation)",
+        "totalCLP": "$2.330.000 - $3.520.000 CLP",
+        "lineItems": [
+          {
+            "item": "Second-hand trailer (already owned)",
+            "costCLP": "$500.000",
+            "note": "Included in total per request. Recurring SOAP + permiso (~$25.000-45.000/yr) and one-off revision tecnica (~$5.000-10.000) not in build total."
+          },
+          {
+            "item": "Chassis rust protection (anticorrosive primer + Corium C-78 cold-galv zinc)",
+            "costCLP": "$25.000 - $45.000",
+            "note": "Full prep + two coats; re-grease bolts and wash road salt each winter."
+          },
+          {
+            "item": "Exterior sub-floor: pino impregnado deck + OSB estructural",
+            "costCLP": "$35.000 - $60.000",
+            "note": "Arauco DECK / impregnated boards over OSB 11 mm; outdoor platform only."
+          },
+          {
+            "item": "Framing: pino dimensionado SECO 2x3 / 2x6, ~30 pieces",
+            "costCLP": "$70.000 - $120.000",
+            "note": "Kiln-dried certificado (~$7.990 for 2x6 at Easy); choose madera seca so the tabique doesn't twist."
+          },
+          {
+            "item": "Exterior skin: quality tinglado / fibrocemento or PVC siding",
+            "costCLP": "$90.000 - $180.000",
+            "note": "ChileSiding / fibrocemento for a weatherproof road-durable shell."
+          },
+          {
+            "item": "Insulation: lana mineral (Rockwool-type) 50 mm, ~20 m2",
+            "costCLP": "$80.000 - $130.000",
+            "note": "AISLAN lana mineral R122 ~$38.700-49.000/pack; better fire resistance and heat tolerance than glass wool around a stove."
+          },
+          {
+            "item": "Vapor barrier: FSK aluminium foil barrier + quality foil tape",
+            "costCLP": "$35.000 - $60.000",
+            "note": "Aislacel FSK radiant+vapor roll + genuine cinta de aluminio, all seams sealed."
+          },
+          {
+            "item": "Interior wall/ceiling cladding: alamo / coigue revestimiento, ~18-20 m2",
+            "costCLP": "$300.000 - $700.000",
+            "note": "Coigue ~$41.412/m2 or alamo machihembrado (W Maderas/Madefan). Lower end if part pino tinglado on ceiling, upper if all native/alamo."
+          },
+          {
+            "item": "Bench tops + backrests + headrests: clear alamo seco, ~4 m2",
+            "costCLP": "$120.000 - $220.000",
+            "note": "Knot-free alamo cepillado from barraca; finished only with parafina/aceite para sauna, never barniz."
+          },
+          {
+            "item": "Wood sauna stove (BuenaCaldera 15-series, Chilean-made)",
+            "costCLP": "$504.000 - $660.000",
+            "note": "Purpose-built with stone box; confirm m3 rating by WhatsApp. (Nordicasa premium ~$1.290.000 is an upgrade option.)"
+          },
+          {
+            "item": "Matched factory chimney / flue kit (double-wall, roof penetration, cap)",
+            "costCLP": "$386.000 - $435.000",
+            "note": "BuenaCaldera kit / full set. Safest path; the roof penetration is the highest fire/leak risk joint to improvise."
+          },
+          {
+            "item": "Volcanic sauna stones 20-30 kg (basalt/peridotite)",
+            "costCLP": "$32.000 - $90.000",
+            "note": "BuenaCaldera saco 25 kg ~$16.000 x2, or Saunatec 10 kg ~$45.000. Dense porous volcanic only, never river rock."
+          },
+          {
+            "item": "Heat shield + hearth: volcanboard (Clase A1) + zincalum sheet on ceramic spacers",
+            "costCLP": "$50.000 - $95.000",
+            "note": "Volcanboard 6-8 mm (~$12.990-19.990/plancha) + plancha acero; protects walls/floor around the stove."
+          },
+          {
+            "item": "Tempered-glass door (puerta de vidrio templado)",
+            "costCLP": "$160.000 - $400.000",
+            "note": "ML tempered shower/sauna door at low end; vidrieria cut-to-size with frame. Branded (Harvia ~730 EUR) far higher."
+          },
+          {
+            "item": "Battery CO detector (non-negotiable with a wood stove)",
+            "costCLP": "$10.000 - $30.000",
+            "note": "AIZO/VIPA autonomous battery unit; works engine-off, off-grid."
+          },
+          {
+            "item": "Ventilation: intake vent + 100 mm duct + sliding alamo cover",
+            "costCLP": "$12.000 - $30.000",
+            "note": "Adjustable rejilla low intake + traditional wood sliding cover near the stove."
+          },
+          {
+            "item": "Fasteners (stainless A4/316) + high-temp silicone + Sika PU sealant",
+            "costCLP": "$40.000 - $75.000",
+            "note": "Marine-grade A4/316 inox for the hot humid interior; high-temp silicone for flue/glass/stove joints."
+          },
+          {
+            "item": "IP65 heat-rated LED lighting + termometro/higrometro + balde/cucharon set",
+            "costCLP": "$40.000 - $90.000",
+            "note": "TyloHelo Chile gauge + bucket/ladle; heat-rated IP65 fixture mounted low."
+          }
+        ]
+      },
+      "moneySavingTips": [
+        "Trawl Yapo and Facebook Marketplace for surplus lumber, a used glass/shower door, and even a second-hand sauna stove before buying new; these three lines are where the biggest savings hide.",
+        "Buy alamo only for the surfaces that touch skin (bench tops, backrests, headrests) and use cheap low-knot pino tinglado for the ceiling and upper walls. This single split can cut the cladding line by half versus all-native.",
+        "Never substitute the foil vapor barrier with the cheap polyethylene rolls sold for under-slab use, and never use plumavit/aislapol inside the envelope (it fails below sauna temps). Doing it wrong means rot and a rebuild, which is the most expensive 'saving' of all.",
+        "Use kiln-dried (seco) untreated pino radiata for hidden framing and reserve impregnated pine strictly for the outdoor sub-floor; buying the wrong grade for the wrong place wastes money and risks resin burns or warping.",
+        "For the LEAN tier, electric avoids the ~$386.000+ chimney kit, the volcanboard hearth and the CO detector entirely; the wood-stove tier's stove + flue + shielding + glass door is roughly $1.1-1.6M of the difference between the two builds.",
+        "Keep the electric heater at 4.5 kW / 20 A so you stay inside the standard 40 A monophase empalme and avoid a SEC power-increase and 380V trifasico install, which would add hundreds of thousands of CLP.",
+        "Source volcanic stones by the 25 kg saco from BuenaCaldera (~$16.000) rather than the boutique 10 kg boxes (~$45.000); both are the right basalt, the per-kg price is very different.",
+        "Buy fasteners, silicone and foil tape in single bulk runs to Sodimac/Construmart rather than piecemeal; and ask the barraca to cepillar (plane) the alamo for you to skip buying/learning a planer.",
+        "Confirm the trailer already has patente and papeles al dia before building anything on it; homologating a pure 'hechizo' trailer later can cost real time and money via REMUCAR/Registro Civil.",
+        "Do all framing, cladding and insulation yourself and pay a SEC electrician only for the heater circuit (LEAN) — labor is the largest invisible cost and the one a handy DIYer can fully absorb."
+      ]
+    }
+  }
+}
