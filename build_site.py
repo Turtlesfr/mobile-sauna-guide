@@ -428,7 +428,8 @@ budget_html = f'''
 </section>'''
 
 # ---- nav
-nav = ''.join(f'<li><a href="#{k}"><span class="n">{META[k][0]}</span>{esc(META[k][1])}</a></li>' for k in ORDER[:8])
+nav = '<li><a href="#viewer"><span class="n">◎</span>3D view</a></li>'
+nav += ''.join(f'<li><a href="#{k}"><span class="n">{META[k][0]}</span>{esc(META[k][1])}</a></li>' for k in ORDER[:8])
 nav += '<li><a href="#materials"><span class="n">◔</span>Materials</a></li>'
 nav += ''.join(f'<li><a href="#{k}"><span class="n">{META[k][0]}</span>{esc(META[k][1])}</a></li>' for k in ORDER[8:])
 nav += ('<li class="sep"></li>'
@@ -449,6 +450,33 @@ HERO_URI = img_uri('hero')
 CSS = open('site_css.css').read()
 JS = open('site_js.js').read()
 CALC = open('calculator.html').read()
+VIEWER = open('viewer3d.js').read()
+IMPORTMAP = ('<script type="importmap">{"imports":{'
+             '"three":"./js/three.module.js",'
+             '"three/addons/controls/OrbitControls.js":"./js/OrbitControls.js"}}</script>')
+
+VIEWER_HTML = '''
+<section id="viewer" class="section">
+  <div class="sec-head"><span class="sec-num">◎</span>
+    <div><h2>🧊 3D viewer</h2><p class="sec-es">Drag to orbit · switch exterior / interior</p></div></div>
+  <p class="overview">An interactive 3D mock-up of the build — a sauna cabin on a single-axle trailer.
+    Drag to rotate, scroll or pinch to zoom, and toggle between the exterior and a cut-away interior
+    showing the wood stove, stone heater and two-tier benches.</p>
+  <div class="viewer-wrap">
+    <div id="viewer3d" class="viewer3d"></div>
+    <div class="viewer-ui">
+      <div class="vbtns">
+        <button class="vbtn active" data-view="exterior">Exterior</button>
+        <button class="vbtn" data-view="interior">Interior</button>
+        <button class="vbtn" id="vrotate">⟳ Auto-rotate</button>
+      </div>
+      <div class="vhint">drag to look · scroll / pinch to zoom</div>
+    </div>
+    <div id="viewer-fallback" class="viewer-fallback" hidden>
+      3D needs WebGL and the bundled three.js (in <code>js/</code>). If you opened the single HTML
+      file on its own, view it via the GitHub&nbsp;Pages link instead.</div>
+  </div>
+</section>'''
 
 page = f'''<!DOCTYPE html>
 <html lang="en">
@@ -486,8 +514,9 @@ page = f'''<!DOCTYPE html>
         <span class="chip">🛠️ Intermediate DIY</span>
       </div>
       <div class="herobtns">
-        <a class="btn primary" href="#calculator">∑ Open the budget calculator</a>
-        <a class="btn" href="#materials">🧰 See the materials</a>
+        <a class="btn primary" href="#viewer">🧊 Explore in 3D</a>
+        <a class="btn" href="#calculator">∑ Budget calculator</a>
+        <a class="btn" href="#materials">🧰 Materials</a>
       </div>
       <div class="verdict">
         <h3>Headline recommendation</h3>
@@ -498,6 +527,8 @@ page = f'''<!DOCTYPE html>
         sauna easily reaches 600–800 kg before stove, stones, water and people.</p>
       </div>
     </header>
+
+    {VIEWER_HTML}
 
     {sections_html}
 
@@ -519,6 +550,8 @@ page = f'''<!DOCTYPE html>
   </main>
 </div>
 <script>{JS}</script>
+{IMPORTMAP}
+<script type="module">{VIEWER}</script>
 </body>
 </html>'''
 
