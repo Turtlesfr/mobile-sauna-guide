@@ -897,7 +897,7 @@ try {
   sun.shadow.bias = -0.0004;
   scene.add(sun);
   const ember = new THREE.PointLight(0xff7a1e, 0, 5, 2);
-  ember.position.set(0.45, 1.15, -1.0);
+  ember.position.set(0.45, 1.0, -1.1);
   scene.add(ember);
 
   // ---- ground ----
@@ -948,21 +948,27 @@ try {
   roof.position.set(0, deck+H+0.16, -0.04); roof.rotation.x = THREE.MathUtils.degToRad(7);
   roof.castShadow = true; sauna.add(roof); walls.roof = roof;
   const chimney = new THREE.Mesh(new THREE.CylinderGeometry(0.075,0.075,0.9,16), M.metal);
-  chimney.position.set(0.45, deck+H+0.5, -1.0); chimney.castShadow = true; sauna.add(chimney); walls.chimney = chimney;
+  chimney.position.set(0.45, deck+H+0.5, -1.1); chimney.castShadow = true; sauna.add(chimney); walls.chimney = chimney;
 
-  // interior: benches + stove + stones (always in scene, revealed in cutaway)
-  box(0.55, t, L-0.3, M.int, -x0+0.32, deck+0.45, 0);   // lower bench (left)
-  box(0.62, t, W-0.2, M.int, 0, deck+0.95, -z0+0.4);    // upper bench (back)  oriented along x
-  const stove = box(0.42,0.62,0.42, M.stove, 0.45, deck+0.31, -1.0);
-  // stones on stove
-  const stoneGeo = new THREE.IcosahedronGeometry(0.06, 0);
+  // interior: two-tier bench along the LEFT wall, with support skirts (no floating slabs)
+  const bL = 2.3;                                        // bench run along z
+  box(0.50, 0.06, bL, M.int, -0.60, 1.565, 0);          // upper bench top (~100 cm above floor)
+  box(0.04, 0.45, bL, M.int, -0.35, 1.340, 0);          // upper bench front skirt
+  box(0.42, 0.06, bL, M.int, -0.24, 1.015, 0);          // lower step top (~45 cm)
+  box(0.04, 0.42, bL, M.int, -0.03, 0.805, 0);          // lower step front skirt
+  box(0.03, 0.26, bL, M.int, -0.83, 1.86, 0);           // backrest board on the wall
+
+  // stove in the BACK-RIGHT corner (opposite the front door), on a non-combustible hearth
+  box(0.72, 0.04, 0.72, M.metal, 0.45, deck+0.02, -1.10);          // hearth pad
+  const stove = box(0.44, 0.70, 0.44, M.stove, 0.45, deck+0.39, -1.10);
+  const stoneGeo = new THREE.IcosahedronGeometry(0.055, 0);
   for (let i=0;i<14;i++){
     const s = new THREE.Mesh(stoneGeo, M.stone);
-    s.position.set(0.45 + (Math.random()-0.5)*0.32, deck+0.64 + Math.random()*0.05, -1.0 + (Math.random()-0.5)*0.32);
+    s.position.set(0.45 + (Math.random()-0.5)*0.30, 1.31 + Math.random()*0.04, -1.10 + (Math.random()-0.5)*0.30);
     s.scale.setScalar(0.7+Math.random()*0.6); s.castShadow = true; sauna.add(s);
   }
-  const flue = new THREE.Mesh(new THREE.CylinderGeometry(0.06,0.06,1.4,14), M.metal);
-  flue.position.set(0.45, deck+1.0, -1.0); sauna.add(flue);
+  const flue = new THREE.Mesh(new THREE.CylinderGeometry(0.06,0.06,1.7,14), M.metal);
+  flue.position.set(0.45, 2.14, -1.10); sauna.add(flue);
 
   // ---- view modes ----
   const VIEWS = {
